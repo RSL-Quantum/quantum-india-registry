@@ -1,0 +1,21 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://rslquantum.com/schema/patent.schema.json",
+  "title": "QuantumIndia Patent / Filing",
+  "type": "object",
+  "required": ["publication_number", "title", "assignees", "filing_office", "filed", "url"],
+  "properties": {
+    "publication_number": { "type": "string" },
+    "title":              { "type": "string" },
+    "assignees":          { "type": "array", "items": { "type": "string" } },
+    "inventors":          { "type": "array", "items": { "type": "string" } },
+    "filing_office":      { "type": "string", "enum": ["IPO-IN", "USPTO", "EPO", "WIPO", "JPO", "KIPO", "CNIPA", "Other"] },
+    "filed":              { "type": "string", "format": "date" },
+    "granted":            { "type": ["string","null"], "format": "date" },
+    "abstract":           { "type": "string" },
+    "cpc_codes":          { "type": "array", "items": { "type": "string" } },
+    "url":                { "type": "string", "format": "uri" },
+    "source":             { "type": "string" }
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://rslquantum.com/schema/funding-round.schema.json",
+  "title": "QuantumIndia Funding Round",
+  "type": "object",
+  "required": ["company_slug", "company_name", "round_type", "currency", "closed_on", "citation"],
+  "properties": {
+    "company_slug":   { "type": "string", "pattern": "^[a-z0-9-]+$" },
+    "company_name":   { "type": "string" },
+    "round_type":     { "type": "string", "enum": ["Pre-seed","Seed","Series-A","Series-B","Series-C","Series-D","Grant","Government-Grant","Debt","Other"] },
+    "amount_usd":     { "type": ["number","null"], "minimum": 0 },
+    "currency":       { "type": "string", "enum": ["USD","INR","EUR","GBP","SGD","Other"] },
+    "lead_investor":  { "type": "string" },
+    "other_investors":{ "type": "array", "items": { "type": "string" } },
+    "closed_on":      { "type": "string", "format": "date" },
+    "stage_after":    { "type": "string" },
+    "use_of_funds":   { "type": "string", "maxLength": 600 },
+    "citation":       { "type": "string", "format": "uri" }
+  },
+  "additionalProperties": false
+}

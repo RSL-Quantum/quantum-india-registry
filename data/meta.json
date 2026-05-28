@@ -1,20 +1,33 @@
 {
-  "ts": "2026-05-27T21:07:07.008Z",
+  "ts": "2026-05-28T11:00:00.000Z",
+  "version": "0.2.0",
   "sources": {
-    "companies": {
-      "count": 1,
-      "candidates": 9
-    },
-    "papers": {
-      "fetched": 100,
-      "india_affiliated": 100,
-      "since": "2026-04-27",
-      "source": "openalex"
-    },
-    "news": {
-      "count": 0,
-      "note": "RSS sources land in Phase 2"
-    }
+    "companies":      { "count": 1,   "source": "curated",                                "schema": "/quantum-india/schema/company.schema.json" },
+    "papers":         { "count": 100, "since": "2026-04-27", "source": "openalex",        "note": "Indian-affiliated, quant-ph related" },
+    "patents":        { "count": 5,   "source": "curated-public-news + USPTO (when key)", "schema": "/quantum-india/schema/patent.schema.json" },
+    "funding_rounds": { "count": 8,   "source": "curated-public-press",                   "schema": "/quantum-india/schema/funding-round.schema.json" },
+    "faculty":        { "count": 500, "source": "openalex-authors",                       "filter": "country=IN, topics in {T10020, T10682, T10622}, works_count>10" },
+    "news":           { "count": 0,   "note": "RSS sources land in Phase 2" }
   },
-  "errors": []
+  "search_api": {
+    "endpoint":   "/api/registry/search",
+    "method":     "GET ?q= or POST {q}",
+    "index":      "rslq-knowledge (Cloudflare Vectorize, 768-d bge-base-en-v1.5)",
+    "license":    "CC-BY-4.0"
+  },
+  "json_api": {
+    "endpoint":   "/api/registry?d=<dataset>",
+    "datasets":   ["companies", "funding-rounds", "patents", "faculty", "meta", "papers", "news"],
+    "cors":       true,
+    "cache_ttl_s":600
+  },
+  "doi": {
+    "concept":      "10.5281/zenodo.20428507",
+    "this_version": "10.5281/zenodo.20428508",
+    "version_tag":  "v0.2.0",
+    "deposited_on": "2026-05-28",
+    "record_url":   "https://doi.org/10.5281/zenodo.20428508"
+  },
+  "license": "CC-BY-4.0",
+  "errors":  []
 }

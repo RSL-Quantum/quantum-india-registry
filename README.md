@@ -3,10 +3,15 @@
 [![Data licence: CC BY 4.0](https://img.shields.io/badge/data%20licence-CC--BY--4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Code licence: Apache 2.0](https://img.shields.io/badge/code%20licence-Apache--2.0-green.svg)](LICENSE)
 [![Live registry](https://img.shields.io/badge/live-rslquantum.com%2Fquantum--india-orange)](https://rslquantum.com/quantum-india/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20428507.svg)](https://doi.org/10.5281/zenodo.20428507)
 
-Open, machine-readable registry of Indian quantum-technology companies and a rolling 30-day feed of India-affiliated quantum papers.
+Open, machine-readable registry of Indian quantum-technology companies, papers, patents, funding rounds, and faculty.
 
 Maintained by [RSL Quantum Private Limited](https://rslquantum.com), New Delhi (CIN U62010DL2026PTC466369).
+
+**Cite as:** Sivasubramani, Santhosh (2026). *quantum-india-registry v0.2.0* [Dataset]. RSL Quantum. https://doi.org/10.5281/zenodo.20428508 (concept DOI: 10.5281/zenodo.20428507 — always resolves to latest).
+
+**Live JSON API:** `GET https://rslquantum.com/api/registry?d=<companies|funding-rounds|patents|faculty|meta|papers>` · **Semantic search:** `GET https://rslquantum.com/api/registry/search?q=<query>` (Cloudflare Vectorize · CC-BY-4.0)
 
 ## Why this exists
 

@@ -1,0 +1,88 @@
+{
+  "ts": "2026-05-28T12:06:41.558Z",
+  "count": 5,
+  "sources": {
+    "curated_seed": 5,
+    "uspto_patentsview": 0,
+    "wipo_patentscope": 0,
+    "ipo_india_bulk": 0
+  },
+  "notes": "WIPO PATENTSCOPE and IPO India bulk feeds pending. USPTO requires free API key (env USPTO_API_KEY).",
+  "rows": [
+    {
+      "publication_number": "IN202141033128",
+      "title": "Method and System for Quantum Key Distribution Over a Free-Space Optical Link",
+      "assignees": [
+        "Indian Space Research Organisation"
+      ],
+      "inventors": [
+        "ISRO PRL team"
+      ],
+      "filing_office": "IPO-IN",
+      "filed": "2021-07-23",
+      "abstract": "Free-space QKD link demonstration between ground stations.",
+      "url": "https://ipindiaservices.gov.in/PublicSearch/PublicationSearch/Application?ApplicationNo=202141033128",
+      "source": "curated-public-news"
+    },
+    {
+      "publication_number": "IN202031043826",
+      "title": "A System and Method for Quantum Random Number Generation",
+      "assignees": [
+        "Indian Institute of Science"
+      ],
+      "inventors": [
+        "urbasi sinha et al."
+      ],
+      "filing_office": "IPO-IN",
+      "filed": "2020-10-09",
+      "abstract": "Vacuum-fluctuation-based QRNG architecture.",
+      "url": "https://ipindiaservices.gov.in/PublicSearch/",
+      "source": "curated-public-news"
+    },
+    {
+      "publication_number": "US20230237363A1",
+      "title": "Quantum-classical hybrid systems for combinatorial optimisation",
+      "assignees": [
+        "Tata Consultancy Services Limited"
+      ],
+      "inventors": [
+        "TCS Research"
+      ],
+      "filing_office": "USPTO",
+      "filed": "2022-01-25",
+      "abstract": "Hybrid quantum-classical pipeline applied to QUBO formulations.",
+      "url": "https://patents.google.com/?assignee=Tata+Consultancy+Services&q=quantum",
+      "source": "curated-public-news"
+    },
+    {
+      "publication_number": "IN202241011287",
+      "title": "Post-quantum cryptographic primitive for resource-constrained devices",
+      "assignees": [
+        "Centre for Development of Advanced Computing"
+      ],
+      "inventors": [
+        "C-DAC team"
+      ],
+      "filing_office": "IPO-IN",
+      "filed": "2022-03-02",
+      "abstract": "Lightweight lattice-based scheme suitable for embedded systems.",
+      "url": "https://ipindiaservices.gov.in/PublicSearch/",
+      "source": "curated-public-news"
+    },
+    {
+      "publication_number": "IN202311024501",
+      "title": "Spintronic device for room-temperature qubit operation",
+      "assignees": [
+        "Indian Institute of Technology Delhi"
+      ],
+      "inventors": [
+        "INTRINSIC Lab researchers"
+      ],
+      "filing_office": "IPO-IN",
+      "filed": "2023-04-04",
+      "abstract": "Spintronic material stack enabling sub-millikelvin coherence.",
+      "url": "https://ipindiaservices.gov.in/PublicSearch/",
+      "source": "curated-public-news"
+    }
+  ]
+}

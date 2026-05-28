@@ -25,5 +25,13 @@ keywords:
   - post-quantum cryptography
 license: "CC-BY-4.0"
 license-url: "https://creativecommons.org/licenses/by/4.0/"
-version: "0.1.0"
+version: "0.2.0"
 date-released: "2026-05-28"
+doi: "10.5281/zenodo.20428508"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.20428508"
+    description: "DOI for v0.2.0 release"
+  - type: doi
+    value: "10.5281/zenodo.20428507"
+    description: "Concept DOI — always resolves to the latest version"

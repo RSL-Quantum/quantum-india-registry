@@ -1,0 +1,113 @@
+{
+  "$schema": "../../../schema/funding-round.schema.json",
+  "ts": "2026-05-28T00:00:00.000Z",
+  "count": 8,
+  "source": "curated-public-press",
+  "notes": "Hand-curated from public press releases. Every entry has a citation URL. No imputed amounts; if amount undisclosed it is null. Submit corrections via GitHub Issues.",
+  "rows": [
+    {
+      "company_slug": "qpi-ai",
+      "company_name": "QpiAI",
+      "round_type":   "Series-A",
+      "amount_usd":   6500000,
+      "currency":     "USD",
+      "lead_investor":"YourNest Venture Capital",
+      "other_investors":["SiliconCatalyst.in", "SunSea Capital"],
+      "closed_on":    "2024-03-01",
+      "stage_after":  "Series-A",
+      "use_of_funds": "Hardware R&D + global commercialisation",
+      "citation":     "https://www.qpiai.tech/news"
+    },
+    {
+      "company_slug": "bosonq-psi",
+      "company_name": "BosonQ Psi",
+      "round_type":   "Seed",
+      "amount_usd":   4150000,
+      "currency":     "USD",
+      "lead_investor":"BlueHill VC",
+      "other_investors":["Multiple angels"],
+      "closed_on":    "2023-08-15",
+      "stage_after":  "Seed",
+      "use_of_funds": "QuantSim Cloud platform expansion",
+      "citation":     "https://www.bosonqpsi.com/news"
+    },
+    {
+      "company_slug": "quantum-mantra",
+      "company_name": "Quantum Mantra",
+      "round_type":   "Pre-seed",
+      "amount_usd":   null,
+      "currency":     "INR",
+      "lead_investor":"Undisclosed angels",
+      "other_investors":[],
+      "closed_on":    "2024-01-15",
+      "stage_after":  "Pre-seed",
+      "use_of_funds": "QKD prototype",
+      "citation":     "https://quantum-mantra.com"
+    },
+    {
+      "company_slug": "qulabs",
+      "company_name": "QuLabs",
+      "round_type":   "Seed",
+      "amount_usd":   null,
+      "currency":     "INR",
+      "lead_investor":"Speciale Invest",
+      "other_investors":[],
+      "closed_on":    "2022-11-01",
+      "stage_after":  "Seed",
+      "use_of_funds": "QKD product development",
+      "citation":     "https://qulabs.ai"
+    },
+    {
+      "company_slug": "qnu-labs",
+      "company_name": "QNu Labs",
+      "round_type":   "Series-A",
+      "amount_usd":   6700000,
+      "currency":     "USD",
+      "lead_investor":"Speciale Invest",
+      "other_investors":["3one4 Capital", "Iron Pillar"],
+      "closed_on":    "2023-09-20",
+      "stage_after":  "Series-A",
+      "use_of_funds": "Scale QKD + QRNG manufacturing",
+      "citation":     "https://www.qnulabs.com/news"
+    },
+    {
+      "company_slug": "taqbit",
+      "company_name": "Taqbit",
+      "round_type":   "Pre-seed",
+      "amount_usd":   500000,
+      "currency":     "USD",
+      "lead_investor":"IIT Madras Incubation Cell",
+      "other_investors":[],
+      "closed_on":    "2023-02-10",
+      "stage_after":  "Pre-seed",
+      "use_of_funds": "QKD field-deployable hardware",
+      "citation":     "https://taqbit.com"
+    },
+    {
+      "company_slug": "rsl-quantum",
+      "company_name": "RSL Quantum",
+      "round_type":   "Grant",
+      "amount_usd":   null,
+      "currency":     "INR",
+      "lead_investor":"FITT IIT Delhi incubation",
+      "other_investors":[],
+      "closed_on":    "2026-05-11",
+      "stage_after":  "Incorporated",
+      "use_of_funds": "Build India's quantum software backbone",
+      "citation":     "https://rslquantum.com/about"
+    },
+    {
+      "company_slug": "nqm-mission-grants",
+      "company_name": "National Quantum Mission (DST)",
+      "round_type":   "Government-Grant",
+      "amount_usd":   720000000,
+      "currency":     "USD",
+      "lead_investor":"Department of Science and Technology, Government of India",
+      "other_investors":[],
+      "closed_on":    "2023-04-19",
+      "stage_after":  "Mission-Approved",
+      "use_of_funds": "NQM 2023-31: ₹6,003.65 cr across 4 verticals (computing, comms, sensing, materials)",
+      "citation":     "https://dst.gov.in/national-quantum-mission"
+    }
+  ]
+}
