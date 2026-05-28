@@ -1,0 +1,2068 @@
+{
+  "ts": "2026-05-27T21:07:07.008Z",
+  "count": 100,
+  "since": "2026-04-27",
+  "rows": [
+    {
+      "openalex_id": "https://openalex.org/W7117323815",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.17632/cjtp3bcz8y.2",
+      "title": "Supervisor Bottom-line Mentality and Employees' Career Sustainability",
+      "authors": [
+        "Aastha Dhoopar",
+        "Vaishali Jadon",
+        "Bindu Gupta"
+      ],
+      "affiliations": [
+        "Institute of Management Technology"
+      ],
+      "abstract": "",
+      "categories": "quant-ph",
+      "published_at": "2027-01-01",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7119320226",
+      "arxiv_id": "",
+      "doi": "",
+      "title": "You're all individuals (I'm not)",
+      "authors": [
+        "M. Thorup"
+      ],
+      "affiliations": [
+        "Ministry of Culture"
+      ],
+      "abstract": "De etablerede institutioner opleves ofte som upersonlige, forældede eller falske. Vi vælger vores autoriteter selv, og i stedet for ekspertise leder vi efter erfaring. De tilvalgte autoriteter skaber nye hierarkier, hvor ’en af os’ pludselig kan sætte dagsordenen. Hvor nærvær bliver måden, vi forsøger at navigere en kompleks verden på.",
+      "categories": "quant-ph",
+      "published_at": "2026-11-01",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7125603090",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.5281/zenodo.18363025",
+      "title": "Evaluating the Impact of Multi-Sectoral Action Plans on Childhood Stunting Reduction in Rwanda: A Short Report on the 2021–2026 Strategy",
+      "authors": [
+        "Jean Claude Niyonzima",
+        "Clarisse Uwamahoro",
+        "Jean de Dieu Uwimana",
+        "Marie Aimee Mukantaganzwa"
+      ],
+      "affiliations": [
+        "Delhi Development Authority"
+      ],
+      "abstract": "This short report evaluates the preliminary impact of Rwanda's multi-sectoral National Strategy for the Reduction of Stunting (2021–2026) on childhood stunting prevalence. The strategy integrates coordinated actions across health, agriculture, social protection, and WASH sectors. We assessed early outcomes and implementation challenges to inform ongoing programme adaptation. Employing a mixed-methods approach, we analysed secondary data from the Rwanda Demographic and Health Surveys (2020 and 2024) to quantify stunting trends in children under five. This was complemented by a desk review of national progress reports and key informant interviews with district-level implementers conducted in early 2026. Preliminary findings indicate a modest but statistically significant decline in national ",
+      "categories": "quant-ph",
+      "published_at": "2026-10-06",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7125595030",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.5281/zenodo.18363024",
+      "title": "Evaluating the Impact of Multi-Sectoral Action Plans on Childhood Stunting Reduction in Rwanda: A Short Report on the 2021–2026 Strategy",
+      "authors": [
+        "Jean Claude Niyonzima",
+        "Clarisse Uwamahoro",
+        "Jean de Dieu Uwimana",
+        "Marie Aimee Mukantaganzwa"
+      ],
+      "affiliations": [
+        "Delhi Development Authority"
+      ],
+      "abstract": "This short report evaluates the preliminary impact of Rwanda's multi-sectoral National Strategy for the Reduction of Stunting (2021–2026) on childhood stunting prevalence. The strategy integrates coordinated actions across health, agriculture, social protection, and WASH sectors. We assessed early outcomes and implementation challenges to inform ongoing programme adaptation. Employing a mixed-methods approach, we analysed secondary data from the Rwanda Demographic and Health Surveys (2020 and 2024) to quantify stunting trends in children under five. This was complemented by a desk review of national progress reports and key informant interviews with district-level implementers conducted in early 2026. Preliminary findings indicate a modest but statistically significant decline in national ",
+      "categories": "quant-ph",
+      "published_at": "2026-10-06",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162420603",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.1145/3801489.3806902",
+      "title": "Information Design for Prosocial Behavior",
+      "authors": [
+        "Alexandre Reiffers-Masson",
+        "Rajesh Sundaresan"
+      ],
+      "affiliations": [
+        "Indian Institute of Science Bangalore"
+      ],
+      "abstract": "We study the idea of information design for inducing prosocial behavior. As an example, we ground our study in the context of electricity consumption. Electricity utility providers would like to reduce the total power consumed by their residential consumer segment. Supply to this segment is often subsidized, and the saved power can be diverted to more profitable segments. Alternatively, the provider may be keen on earning carbon credits by inducing reduced consumption in this segment. The societal network in which the consumers reside may have a prevailing norm, for example, saving power is environment friendly and is considered good. Those that consume less are considered more prosocial and may derive a larger reputational benefit. How can the service provider, who is familiar with the pr",
+      "categories": "quant-ph",
+      "published_at": "2026-05-26",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162421268",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.5281/zenodo.20393007",
+      "title": "How Self Perception and Life Style Effects Health",
+      "authors": [
+        "Shalini Kumari"
+      ],
+      "affiliations": [
+        "Patliputra University"
+      ],
+      "abstract": "This chapter explores the foundational role of self-perception as a cognitive filter that dictates behavioural patterns, lifestyle choices, and subsequent health outcomes. Central to this analysis is the psychological construct of Locus of Control, which determines the degree to which individuals believe they possess agency over their lives. The study asserts that \"internals\" those with a high sense of self-efficacy are significantly more likely to engage in proactive health behaviours, leading to superior academic, professional, and physiological results.",
+      "categories": "quant-ph",
+      "published_at": "2026-05-26",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162412320",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.5281/zenodo.20400981",
+      "title": "The Illusion of 'Smart Work': Deconstructing the Productivity Myth and the Biological Necessity of Hard Work",
+      "authors": [
+        "Partha Majumdar"
+      ],
+      "affiliations": [
+        "Kalinga University"
+      ],
+      "abstract": "This analysis critically deconstructs the modern maxim to ‘work smarter, not harder’, arguing it is a pervasive and misleading illusion when positioned as a substitute for strenuous effort. The article contends that this ideology, rooted in early 20th-century industrial management principles designed for repetitive physical labour, is fundamentally misapplied to the complexities of modern cognitive and creative work. A multi-faceted refutation is presented, drawing from neurobiology, psychology, and biographical evidence. From a neurological standpoint, it is argued that genuine mastery is not a conceptual hack but a physical process of myelination, a biological construction requiring the sustained, uncomfortable friction of deliberate practice that cannot be circumvented by shortcuts. Psy",
+      "categories": "quant-ph",
+      "published_at": "2026-05-26",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162397979",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.1145/3788853.3801592",
+      "title": "Incremental Stream Query Placement and Deployment in Action",
+      "authors": [
+        "Danila Ferents",
+        "Ankit Chaudhary",
+        "Felix Lang",
+        "Nils Schubert",
+        "Varun Pandey",
+        "Jeyhun Karimov",
+        "Steffen Zeuch",
+        "Kaustubh Beedkar",
+        "Volker Markl"
+      ],
+      "affiliations": [
+        "Indian Institute of Technology Delhi"
+      ],
+      "abstract": "",
+      "categories": "quant-ph",
+      "published_at": "2026-05-26",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162459220",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.5281/zenodo.20393008",
+      "title": "How Self Perception and Life Style Effects Health",
+      "authors": [
+        "Shalini Kumari"
+      ],
+      "affiliations": [
+        "Patliputra University"
+      ],
+      "abstract": "This chapter explores the foundational role of self-perception as a cognitive filter that dictates behavioural patterns, lifestyle choices, and subsequent health outcomes. Central to this analysis is the psychological construct of Locus of Control, which determines the degree to which individuals believe they possess agency over their lives. The study asserts that \"internals\" those with a high sense of self-efficacy are significantly more likely to engage in proactive health behaviours, leading to superior academic, professional, and physiological results.",
+      "categories": "quant-ph",
+      "published_at": "2026-05-26",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162425828",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.1080/24701556.2026.2676243",
+      "title": "Synthesis and comparative action by Na and K-doped CuFe <sub>2</sub> O <sub>4</sub> nanoparticles for multifaceted functional applications",
+      "authors": [
+        "Shaweta Chandel",
+        "Saurabh Sharma",
+        "Anil Kumar Verma",
+        "Neha Gautam",
+        "Naveen Thakur",
+        "Kuldeep Kumar"
+      ],
+      "affiliations": [
+        "Career Point University",
+        "Saraswati Dental College and Hospital",
+        "Dr. Yashwant Singh Parmar University of Horticulture and Forestry",
+        "Desh Bhagat University"
+      ],
+      "abstract": "",
+      "categories": "quant-ph",
+      "published_at": "2026-05-26",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162435736",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.5281/zenodo.20389597",
+      "title": "AYURVEDA AS TRADITIONAL KNOWLEDGE: LEGAL PROTECTION AND CONTEMPORARY RELEVANCE IN INDIA",
+      "authors": [
+        "Snehasish Sarkar"
+      ],
+      "affiliations": [
+        "Indian Institute of Technology Roorkee"
+      ],
+      "abstract": "ABSTRACT Ayurveda arrives to the portals of the contemporary legislation with soaring baggage of the history, custom and care of the human beings. It is more not the directory of plants and recipes as in dusty manuscripts, but a sort of an history, väids the treatment of patients in village courts, families concocting medication at home, laboratory experiments trying to isolate active properties to test them on patients: that indistinct reality is a key to asking the questions of law discussed in these parts: when the ancient recipe is the seed of a new substance that works around the world, who is the proprietor, who benefits, and shall active law go forth and put under restraint that sort of movement? This putting into doubt, in the paper, is achieved through an enquiry concerning the sa",
+      "categories": "quant-ph",
+      "published_at": "2026-05-26",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162399256",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.1177/00490857261453988",
+      "title": "Respiratory Solidarities: Possibilities and Tensions of Air’s Publics in Delhi",
+      "authors": [
+        "Rohit Negi"
+      ],
+      "affiliations": [
+        "Indian Institute of Management Calcutta"
+      ],
+      "abstract": "Delhi’s atmosphere has been a site of policy and political debate alongside multiple interventions since the late 1990s. From fuel transition to emission norms, and from industrial closure to air quality monitoring, the city has been a laboratory for governance and technical innovations looking to infrastructure a less toxic urban atmosphere. This commentary takes this contemporary politics as its point of departure to examine how otherwise disparate publics have been brought together by a shared object of concern. Drawing on research undertaken within a broadly science and technology studies framing, the commentary identifies and describes the emergence of everyday subjectivities around air and their collective assertion, or respiratory solidarities. It further shows how post-pandemic soc",
+      "categories": "quant-ph",
+      "published_at": "2026-05-26",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162426451",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.5281/zenodo.20389596",
+      "title": "AYURVEDA AS TRADITIONAL KNOWLEDGE: LEGAL PROTECTION AND CONTEMPORARY RELEVANCE IN INDIA",
+      "authors": [
+        "Snehasish Sarkar"
+      ],
+      "affiliations": [
+        "Indian Institute of Technology Roorkee"
+      ],
+      "abstract": "ABSTRACT Ayurveda arrives to the portals of the contemporary legislation with soaring baggage of the history, custom and care of the human beings. It is more not the directory of plants and recipes as in dusty manuscripts, but a sort of an history, väids the treatment of patients in village courts, families concocting medication at home, laboratory experiments trying to isolate active properties to test them on patients: that indistinct reality is a key to asking the questions of law discussed in these parts: when the ancient recipe is the seed of a new substance that works around the world, who is the proprietor, who benefits, and shall active law go forth and put under restraint that sort of movement? This putting into doubt, in the paper, is achieved through an enquiry concerning the sa",
+      "categories": "quant-ph",
+      "published_at": "2026-05-26",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162396322",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.5281/zenodo.20400982",
+      "title": "The Illusion of 'Smart Work': Deconstructing the Productivity Myth and the Biological Necessity of Hard Work",
+      "authors": [
+        "Partha Majumdar"
+      ],
+      "affiliations": [
+        "Kalinga University"
+      ],
+      "abstract": "This analysis critically deconstructs the modern maxim to ‘work smarter, not harder’, arguing it is a pervasive and misleading illusion when positioned as a substitute for strenuous effort. The article contends that this ideology, rooted in early 20th-century industrial management principles designed for repetitive physical labour, is fundamentally misapplied to the complexities of modern cognitive and creative work. A multi-faceted refutation is presented, drawing from neurobiology, psychology, and biographical evidence. From a neurological standpoint, it is argued that genuine mastery is not a conceptual hack but a physical process of myelination, a biological construction requiring the sustained, uncomfortable friction of deliberate practice that cannot be circumvented by shortcuts. Psy",
+      "categories": "quant-ph",
+      "published_at": "2026-05-26",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162339268",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.3389/fenvs.2026.1872013",
+      "title": "Editorial: Regenerative agriculture for soil health, greenhouse gas mitigation, and climate action",
+      "authors": [
+        "Sangeeta Lenka",
+        "R. S. Kanwar",
+        "Katharina H. E. Meurer"
+      ],
+      "affiliations": [
+        "Indian Institute of Soil Science"
+      ],
+      "abstract": "Regenerative agriculture (RA) is increasingly positioned as a systems-based paradigm that integrates soil restoration, climate change mitigation, and sustainable productivity. Conventional agricultural practices, while instrumental in boosting productivity, have often led to soil degradation, biodiversity loss, and increased greenhouse gas (GHG) emissions. In response, regenerative agriculture has emerged as a holistic framework for restoring soil health, enhancing ecosystem resilience, and mitigating climate change (Lal, 2016). Conceptually, RA builds on the soil-plant-climate nexus, in which soil health serves as the central regulator, linking carbon sequestration, nutrient cycling, biodiversity, and greenhouse gas (GHG) dynamics. As such, RA integrates soil health restoration and emissi",
+      "categories": "quant-ph",
+      "published_at": "2026-05-25",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162309203",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.25259/jccc_9_2026",
+      "title": "A Viewpoint on the Role of Right Heart in General Anesthesia",
+      "authors": [
+        "Manisha Manohar"
+      ],
+      "affiliations": [
+        "Pandit Bhagwat Dayal Sharma Post Graduate Institute of Medical Sciences"
+      ],
+      "abstract": "",
+      "categories": "quant-ph",
+      "published_at": "2026-05-25",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7108731853",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.5281/zenodo.17814494",
+      "title": "OdorSig: Automated Molecular Docking Pipeline for Olfactory Receptor-Odorant Interaction Profiling",
+      "authors": [
+        "Bajpai, Divyanshu",
+        "Pal, Atirath",
+        "Roy Chowdhury, Shubhajit"
+      ],
+      "affiliations": [
+        "Indian Institute of Technology Mandi"
+      ],
+      "abstract": "OdorSig is a fully automated, open-source Python pipeline for reproducible olfactory receptor-odorant molecular docking analysis. Applied to 480 receptor-odorant pairs across 40 human olfactory receptors and 12 structurally diverse odorants, OdorSig implements multi-run reproducibility scoring by reporting mean binding energy and standard deviation for every pair. Version 2.0.0 updates:- Complete 480-pair OR-odorant binding affinity dataset- AutoDock Vina docking log files for all 480 pairs- H-bond and hydrophobic contact annotations- Reorganised repository structure Related manuscript submitted to BioData Mining (2026).DOI: 10.5281/zenodo.17814494",
+      "categories": "quant-ph",
+      "published_at": "2026-05-25",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162282997",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.1007/jhep05(2026)274",
+      "title": "SO(1, d + 1) symmetry of the exact RG equation",
+      "authors": [
+        "Semanti Dutta",
+        "B. Sathiapalan"
+      ],
+      "affiliations": [
+        "S.N. Bose National Centre for Basic Sciences",
+        "Homi Bhabha National Institute",
+        "Institute of Mathematical Sciences"
+      ],
+      "abstract": "A bstract There is a method for constructing from first principles, a holographic bulk dual action in Euclidean AdS d +1 space for a d -dimensional Euclidean CFT on the boundary, starting from the Polchinski’s Exact Renormalization Group (ERG) equation that describes the RG evolution of the interaction part of the boundary Wilson action. The bulk action in AdS d +1 has an SO(1, d + 1) symmetry and is obtained from the evolution operator of the Polchinski’s ERG equation by a map that involves a field redefinition and requires a special form of the UV cutoff function in the ERG equation. In this paper, we show that for any form of the cutoff function, the ERG evolution operator has an SO(1, d + 1) symmetry. The generators of the special conformal transformation depend on the cutoff function.",
+      "categories": "quant-ph",
+      "published_at": "2026-05-25",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162294559",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.1007/s42535-026-01717-4",
+      "title": "Genetic analysis of nutritional and quality traits in okra [Abelmoschus esculentus (L.) Moench] by exploiting heterosis, combining ability and gene action",
+      "authors": [
+        "Himanshi",
+        "Yashpal Singh Bisht",
+        "Amit Saurabh",
+        "Megha Ahir",
+        "Anand Singh Rawat",
+        "Ruksana",
+        "Diksha Saini"
+      ],
+      "affiliations": [
+        "Eternal University",
+        "Maharaja Ranjit Singh Punjab Technical University"
+      ],
+      "abstract": "",
+      "categories": "quant-ph",
+      "published_at": "2026-05-25",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162294938",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.1007/s10822-026-00816-3",
+      "title": "ADMET-vault: an interactive framework for real-time ADMET prediction and molecular optimization",
+      "authors": [
+        "Rishabh Vishwakarma",
+        "Vini Lokhande",
+        "Parveen Punia",
+        "Avinash Mishra"
+      ],
+      "affiliations": [
+        "Shree Guru Gobind Singh Tricentenary University",
+        "Pandit Bhagwat Dayal Sharma Post Graduate Institute of Medical Sciences"
+      ],
+      "abstract": "",
+      "categories": "quant-ph",
+      "published_at": "2026-05-25",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162318624",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.5281/zenodo.20379728",
+      "title": "Discourse on the Ethical Implications of Freedom and Violence: A Critical Study of Sartre and Camus",
+      "authors": [
+        "Atuiphy Jakoi"
+      ],
+      "affiliations": [
+        "Jawaharlal Nehru University"
+      ],
+      "abstract": "The paper examines the ethical tensions inherent in the notion of freedom and violence, particularly in their exercise in the social and political life of human existence. The notion of freedom and violence has long been a contested concept; the exercise of freedom in everyday life reveals its deeply contested nature, especially when it comes into contact with others’ freedom and existence. The act of freedom can either limit or violate another’s rights, raising pressing moral questions about the proper way to exercise freedom and, at the same time, inviting curiosity about contrasting perspectives. The paper presents distinct perspectives on freedom and violence from Sartre and Camus. They suggest that the unequal exercise of freedom is often shaped by unequal power structures that gradua",
+      "categories": "quant-ph",
+      "published_at": "2026-05-25",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162333779",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.3390/journalmedia7020112",
+      "title": "Shifting the Dial: Does Exposure to Climate Change Efficacy Messages Boost Individual and Collective Political Activism Intentions?",
+      "authors": [
+        "Nimmagadda Bhargav",
+        "Jagadish Thaker"
+      ],
+      "affiliations": [
+        "Indian Institute of Management Indore"
+      ],
+      "abstract": "Media primarily frames climate change as a threat or disaster, which may dampen public interest and engagement. Does shifting communication strategies to emphasize people’s ability to enact change increase political engagement with climate change? This study examines whether exposure to a news story containing efficacy information is associated with changes in self-efficacy, collective efficacy, and intentions to engage in political activism. Using a quasi-experimental classroom-based design, a single exposure to a news story embedded with efficacy information was not associated with higher levels of any of the three dimensions of political self-efficacy—internal, external, and response—as well as perceived collective efficacy among undergraduate students (N = 731) in a large city in India",
+      "categories": "quant-ph",
+      "published_at": "2026-05-25",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162284955",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.1177/26318318261442263",
+      "title": "Evidence-based Assessment of Herbs and Dietary Recipes Mentioned in Vajikarana Chikitsa Adhyaya of Charaka Samhita: A Comprehensive Narrative Review",
+      "authors": [
+        "Aishwarya Joglekar",
+        "Sumedh Joshi",
+        "Meera Bhojani",
+        "MAHESH VYAS",
+        "Tanuja Nesari"
+      ],
+      "affiliations": [
+        "National Institute of Ayurveda",
+        "Ministry of AYUSH",
+        "Gujarat Ayurved University"
+      ],
+      "abstract": "Introduction: Reproduction and optimum sexual function are of prime importance to maintain the balance in the ecosystem. This is probably why Ayurveda includes vajikarana (aphrodisiac therapy) in the eight major branches of medicine or therapeutics. It is thus necessary to explore the concept of vajikarana, focusing on sexual and reproductive health and review the dietary recipes, herbs and aphrodisiac therapies mentioned in the Charaka Samhita, in a chapter named the Vajikarana Chikitsa Adhyaya. In this article, an attempt is made to collate and analyse the recent research on the different dietary items, recipes and herbs mentioned in the Vajikarana Chikitsa chapter of Charak Samhita pertaining to the male reproductive and sexual health. The qualitative analysis of the evidence, as well a",
+      "categories": "quant-ph",
+      "published_at": "2026-05-25",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162302105",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.29173/cjnser840",
+      "title": "What Kerala’s Member-Owned Institutions Can Teach the World about Social Economics",
+      "authors": [
+        "P. J. Christabell",
+        "Caroline Shenaz Hossein"
+      ],
+      "affiliations": [
+        "University of Kerala"
+      ],
+      "abstract": "Member-owned institutions (MOIs) meet the livelihood needs of people who are excluded from formal business systems. Cooperation, group economics, and the pooling of resources are all strategies that humans have historically turned to in the face of exclusion. However, the mainstream development sector often views such “alternatives” and “cooperatives” as Western inventions, which is a problematic narrative. A vast literature on the social economy shows the significant contribution of the Global South to the social and solidarity economy. In this study, we survey 1,214 members of MOIs in the state of Kerala, India. Kerala’s MOIs underline the value of citizen engagement and action to improve social provisioning and equity, making it a model for an inclusive economics of global importance.",
+      "categories": "quant-ph",
+      "published_at": "2026-05-25",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162410040",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.25258/ijddt.16.32s.97",
+      "title": "Pain Modulation Through Marma Therapy in Janu Sandhigata Vata (Knee Osteoarthritis)",
+      "authors": [
+        "Durga Biswas",
+        "Namrata Tiwari",
+        "Aruna Ojha",
+        "Dr. Meenu Srivastava Khare",
+        "Kuldeep Kumar"
+      ],
+      "affiliations": [
+        "Government Ayurved College, Nanded"
+      ],
+      "abstract": "Osteoarthritis (OA) of the knee is a chronic degenerative joint disorder characterized by progressive pain, stiffness, and limited mobility.1 In Ayurvedic literature, it is correlated with Janu Sandhigata Vata, a pathological condition arising due to the vitiation of Vata dosha localized in the knee joint (Janu Sandhi).2 Marma therapy, a non-invasive therapeutic modality in Ayurveda, involves the systematic stimulation of specific vital points (Marma) to restore physiological and functional balance within the body.3 The present article aims to elucidate the mode of action of Marma therapy in the management of osteoarthritic knee pain through an integrative approach that bridges classical Ayurvedic principles with contemporary biomedical perspectives.",
+      "categories": "quant-ph",
+      "published_at": "2026-05-25",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162308720",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.5281/zenodo.20379729",
+      "title": "Discourse on the Ethical Implications of Freedom and Violence: A Critical Study of Sartre and Camus",
+      "authors": [
+        "Atuiphy Jakoi"
+      ],
+      "affiliations": [
+        "Jawaharlal Nehru University"
+      ],
+      "abstract": "The paper examines the ethical tensions inherent in the notion of freedom and violence, particularly in their exercise in the social and political life of human existence. The notion of freedom and violence has long been a contested concept; the exercise of freedom in everyday life reveals its deeply contested nature, especially when it comes into contact with others’ freedom and existence. The act of freedom can either limit or violate another’s rights, raising pressing moral questions about the proper way to exercise freedom and, at the same time, inviting curiosity about contrasting perspectives. The paper presents distinct perspectives on freedom and violence from Sartre and Camus. They suggest that the unequal exercise of freedom is often shaped by unequal power structures that gradua",
+      "categories": "quant-ph",
+      "published_at": "2026-05-25",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162284583",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.1007/s40010-026-01034-0",
+      "title": "Stability and Convergence Analysis of an Extrapolated Optimal Collocation Algorithm used for Solving Fisher’s Equation",
+      "authors": [
+        "Shallu",
+        "Archna Kumari",
+        "V. K. Kukreja"
+      ],
+      "affiliations": [
+        "Government of India",
+        "Sant Longowal Institute of Engineering and Technology"
+      ],
+      "abstract": "",
+      "categories": "quant-ph",
+      "published_at": "2026-05-25",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162246292",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.5281/zenodo.20367616",
+      "title": "Bhuvaneswari Vortex Theory: Quantum Field Unification, Gravity, and Entanglement",
+      "authors": [
+        "Bhuvaneswari Varnam"
+      ],
+      "affiliations": [
+        "Jawaharlal Nehru Technological University, Hyderabad"
+      ],
+      "abstract": "called Bhuvaneswari Vortex Theory (BVT), which introduces a physical vortex-density medium as the substrate for all quantum fields.Chapter 1: Quantum Field UnificationThe unified scalar field is defined as phi_BVT = f(Pv, g, Ceff, Tv, meff).Working relations:Pv = K / 58.6g = K' / 58.6Ceff = c - (K * n) / 58.6Tv = 1 / (1 + w / 58.6)meff = m * (1 + w / 58.6)Quantum excitations of phi_BVT behave as particles, photons, and gauge-like modes. Chapter 2: Quantum Gravity in BVTGravity is reinterpreted as a vortex-density gradient. The vortex stress-energy tensor is defined as T_BVT = f(rho_v, g, Ceff, Tv, meff).Predictions include gravitational redshift as viscosity effect, planetary mass synchronization, and GPS drift explained by vortex resistance.Chapter 3: Quantum Entanglement FormalizationEnt",
+      "categories": "quant-ph",
+      "published_at": "2026-05-24",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162239173",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.5281/zenodo.20367210",
+      "title": "Return",
+      "authors": [
+        "Aditya Mishra"
+      ],
+      "affiliations": [
+        "Swasthya Diabetes Care"
+      ],
+      "abstract": "“Return” is a reflective philosophical poem exploring the separation of mind and body, the journey of life, exhaustion of worldly wandering, and the final surrender of accumulated experiences back to Mother Earth. The poem traverses themes of existential detachment, gratitude, humility, and spiritual offering. Written in free verse style, it embodies an inward journey through joy, despair, struggle, freedom, and ultimate return. Keywords:Poetry, Philosophical Poetry, Existential Reflection, Spiritual Literature, Free Verse, Human Journey, Mother Earth, Consciousness, Life and Death, Reflection, Inner Journey, Meditative Poetry, Aditya Bikram Mishra.",
+      "categories": "quant-ph",
+      "published_at": "2026-05-24",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162326591",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.1002/cli2.70050",
+      "title": "Evaluating the Intercropping Systems in the Context of Agroecological Resilience in the Current Era of the Changing Climate: A Scenario of Scientific Analysis of Last Decade Data",
+      "authors": [
+        "Sagar Maitra",
+        "Sumit Ray",
+        "Swati Suman",
+        "K. PUSHPA",
+        "B. Sai Divya",
+        "Masina Sairam",
+        "Lalichetti Sagar",
+        "Harun I. Gitari",
+        "D.T. Santosh",
+        "Akbar Hossain"
+      ],
+      "affiliations": [
+        "Centurion University of Technology and Management",
+        "University of Agricultural Sciences, Bangalore",
+        "SRM University"
+      ],
+      "abstract": "ABSTRACT The extremity of climate change (CC) has become more crucial, and under the current context of CC during the last decade. The cropping system (CS) approach is more appropriate than a suitable and established package of practices for individual crops, as CS interrelates with other components and resources related to sustainable farming under the changing climate. The importance of CC in the current era must be documented. Hence, an initiative was taken to evaluate the current research published during the last decade to assess the role of the intercropping system in relation to resilience to CC and alignment with the SDGs. The study considered were from 2015 to 2024, supporting the importance of the intercropping system and the mitigation or adaptation of CC in the present context ",
+      "categories": "quant-ph",
+      "published_at": "2026-05-24",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162241583",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.5281/zenodo.20367617",
+      "title": "Bhuvaneswari Vortex Theory: Quantum Field Unification, Gravity, and Entanglement",
+      "authors": [
+        "Bhuvaneswari Varnam"
+      ],
+      "affiliations": [
+        "Jawaharlal Nehru Technological University, Hyderabad"
+      ],
+      "abstract": "called Bhuvaneswari Vortex Theory (BVT), which introduces a physical vortex-density medium as the substrate for all quantum fields.Chapter 1: Quantum Field UnificationThe unified scalar field is defined as phi_BVT = f(Pv, g, Ceff, Tv, meff).Working relations:Pv = K / 58.6g = K' / 58.6Ceff = c - (K * n) / 58.6Tv = 1 / (1 + w / 58.6)meff = m * (1 + w / 58.6)Quantum excitations of phi_BVT behave as particles, photons, and gauge-like modes. Chapter 2: Quantum Gravity in BVTGravity is reinterpreted as a vortex-density gradient. The vortex stress-energy tensor is defined as T_BVT = f(rho_v, g, Ceff, Tv, meff).Predictions include gravitational redshift as viscosity effect, planetary mass synchronization, and GPS drift explained by vortex resistance.Chapter 3: Quantum Entanglement FormalizationEnt",
+      "categories": "quant-ph",
+      "published_at": "2026-05-24",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7161612407",
+      "arxiv_id": "",
+      "doi": "",
+      "title": "“He Was Seeking God So He Could Ask for Universal Knowledge”: Knowledge as A Super Narrative in Karnad's Hayavadana, Naga-Mandala AND the Fire AND the Rain",
+      "authors": [
+        "A. Guin"
+      ],
+      "affiliations": [
+        "Bankura University"
+      ],
+      "abstract": "Girish Karnad, the veteran Indian playwright talks of Knowledge in multifaceted understanding of the term. While knowledge stands for wisdom, it suggests spiritual knowledge, the knowledge of the Universe, knowledge of the Self. It is interpreted as human's power over the Universe, over Nature and at the same time Nature's power over man or Unconscious' power over the Conscious mind. The power in Karnad's plays is placed in diverse points and every character whether the man or the woman or even snakes or dolls are given a will, a power that can topple other structures of power. The Unconscious rules over the conscious, the animal world becomes more intuitive than humans, the divine world intervenes into the human world and so on. The different worlds contest with each other to form a world",
+      "categories": "quant-ph",
+      "published_at": "2026-05-24",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162262297",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.5281/zenodo.20367209",
+      "title": "Return",
+      "authors": [
+        "Aditya Mishra"
+      ],
+      "affiliations": [
+        "Swasthya Diabetes Care"
+      ],
+      "abstract": "“Return” is a reflective philosophical poem exploring the separation of mind and body, the journey of life, exhaustion of worldly wandering, and the final surrender of accumulated experiences back to Mother Earth. The poem traverses themes of existential detachment, gratitude, humility, and spiritual offering. Written in free verse style, it embodies an inward journey through joy, despair, struggle, freedom, and ultimate return. Keywords:Poetry, Philosophical Poetry, Existential Reflection, Spiritual Literature, Free Verse, Human Journey, Mother Earth, Consciousness, Life and Death, Reflection, Inner Journey, Meditative Poetry, Aditya Bikram Mishra.",
+      "categories": "quant-ph",
+      "published_at": "2026-05-24",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162190028",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.5281/zenodo.20353621",
+      "title": "Understanding Silence: A Sociological Exploration of the Challenges Faced by Elderly Cybercrime Victims in Approaching Formal Reporting Channels in India",
+      "authors": [
+        "Rupak Verma",
+        "Reema Gill"
+      ],
+      "affiliations": [
+        "Central University of Haryana"
+      ],
+      "abstract": "The Indian society is digitizing at a rapid pace. This development has resulted in new opportunities for senior citizens to utilize technology but, at the same time, has also exposed them to severe cybercrime threats. This paper examines the socio-cultural barriers that prevent senior Indians from coming forward to report their experiences of victimization due to hacking. Previous studies have already pointed out the knowledge gaps, decreased intentions to report, inefficiencies in the reporting system, and vulnerabilities intersecting with digital literacy, gender, and socio-economic factors. We have discovered that senior citizens are struggling to navigate digital environments because of insufficient awareness about online cyber threats and risky online practices, which are further wors",
+      "categories": "quant-ph",
+      "published_at": "2026-05-23",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162202851",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.5281/zenodo.20358389",
+      "title": "davidmdrpi/geometrodynamics: Bulk Antipodal Mechanics",
+      "authors": [
+        "Claude",
+        "davidmdrpi"
+      ],
+      "affiliations": [
+        "Anthropological Survey of India"
+      ],
+      "abstract": "Bulk Antipodal Mechanics (BAM) is a geometrodynamics research framework testing whether quantum-like spectra, exchange kernels, and tree-level QED structures can emerge from closed S³ geometry, Hopf-fibre topology, 5D Tangherlini bulk confinement, and non-orientable throat transport. This release consolidates the BAM scaffold-closure milestone. It includes the two-throat Coulomb validation, topological promotion of the closure quantum and antipodal Z₂, derivation of the hard-wall throat boundary from T² = −I, completion of the C × S³ master functional producing both mass poles and F² = K²Q, and the B4 dimensional-anchor audit. The final scale anchor is relocated from m_e to the invariant bulk separation ΔR, while preserving the theorem that one dimensionful unit is required by any scale-fr",
+      "categories": "quant-ph",
+      "published_at": "2026-05-23",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162212721",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.5281/zenodo.20354136",
+      "title": "cebpLab/Deep-Pose-Tracker: Deep-Pose-Tracker",
+      "authors": [
+        "Debasish Saha",
+        "CEBP Lab"
+      ],
+      "affiliations": [
+        "Indian Institute of Science Education and Research, Bhopal"
+      ],
+      "abstract": "This release consists of scripts and datasets of the Deep-Pose-Tracker model for automated behavioural analyses of C. elegans.",
+      "categories": "quant-ph",
+      "published_at": "2026-05-23",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162129807",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.5281/zenodo.20348661",
+      "title": "FREE CONSENT AND CAPACITY TO CONTRACT",
+      "authors": [
+        "Rishikeswaran. S"
+      ],
+      "affiliations": [
+        "SASTRA University"
+      ],
+      "abstract": "The Contract Law prescribes basic requisites for a contract to be legally enforceable, including free consent and competency of parties. The contract is void when the consent has not been genuine and obtained by coercion, fraud, misrepresentation, undue influence or mistake. Mistakes may be of facts, or law, affecting the agreements. It further provides that only persons who are not minors, of sound mind and not disqualified by any law will be competent to contract. Contracts with a minor therefore void-ab-initio, and contracts for the benefit of a minor enforceable. Analogous to this, the lunatics can contract only when they are sane. Others like alien enemy, foreign sovereigns, convicts, corporations acting beyond the scope of their power and insolvents are similarly precluded from contr",
+      "categories": "quant-ph",
+      "published_at": "2026-05-23",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162213916",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.5281/zenodo.20353620",
+      "title": "Understanding Silence: A Sociological Exploration of the Challenges Faced by Elderly Cybercrime Victims in Approaching Formal Reporting Channels in India",
+      "authors": [
+        "Rupak Verma",
+        "Reema Gill"
+      ],
+      "affiliations": [
+        "Central University of Haryana"
+      ],
+      "abstract": "The Indian society is digitizing at a rapid pace. This development has resulted in new opportunities for senior citizens to utilize technology but, at the same time, has also exposed them to severe cybercrime threats. This paper examines the socio-cultural barriers that prevent senior Indians from coming forward to report their experiences of victimization due to hacking. Previous studies have already pointed out the knowledge gaps, decreased intentions to report, inefficiencies in the reporting system, and vulnerabilities intersecting with digital literacy, gender, and socio-economic factors. We have discovered that senior citizens are struggling to navigate digital environments because of insufficient awareness about online cyber threats and risky online practices, which are further wors",
+      "categories": "quant-ph",
+      "published_at": "2026-05-23",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162255094",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.5281/zenodo.20145507",
+      "title": "P18 Beyond General Relativity: A Unified Gravitation Equation Across Quantum, Classical, Galactic, and Rapid-Transition Regimes",
+      "authors": [
+        "V. K. Sharma"
+      ],
+      "affiliations": [
+        "Shree Guru Gobind Singh Tricentenary University"
+      ],
+      "abstract": "Standard gravitational theory, from Newtonian mechanics through the full framework of general relativity, provides an extraordinarily successful predictive account of observed gravitational phenomena using source-side quantities: mass density in the weak-field limit, and the complete stress-energy tensor in the relativistic setting. This predictive success does not by itself settle the ontological question of what immediate local physical entity is in the changed state when gravitation is actually measured at a detector or observation point. The present work argues that this question constitutes a distinct and previously under-examined layer of gravitational physics. Standard gravitational theory, from Newton through Einstein, provides an extraordinarily accurate predictor of gravitational",
+      "categories": "quant-ph",
+      "published_at": "2026-05-23",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162213684",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.5281/zenodo.20355169",
+      "title": "NEW LEGAL MECHANISMS FOR THE PROTECTION OF WOMEN AND CHILDREN FROM VIOLENCE AND ABUSE: CURRENT PRACTICE AND TRANSFORMATIONAL PROCESSES",
+      "authors": [
+        "Durdona Jong'aboyeva",
+        "Z. Kasimova"
+      ],
+      "affiliations": [
+        "Tata Institute of Fundamental Research"
+      ],
+      "abstract": "This article analyzes fundamental legislative reforms implemented to protect the rights of women and children in the Republic of Uzbekistan between 2019 and 2025. Specifically, it examines the practical effectiveness of new legal norms, such as the criminalization of domestic violence, the extension of judicial protection orders, and the restriction of the institution of reconciliation. The article also analyzes statistical indicators in law enforcement practice and offers scientific and practical recommendations for improving this area.",
+      "categories": "quant-ph",
+      "published_at": "2026-05-23",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7161528387",
+      "arxiv_id": "",
+      "doi": "",
+      "title": "A Proverb is A Product OF Folk Wisdom",
+      "authors": [
+        "B. D. (Bobojonova) Okhunjonovna"
+      ],
+      "affiliations": [
+        "South Asian University"
+      ],
+      "abstract": "The term proverb is derived from the Arabic word \"qavlun\" (to say, to speak), and in the Uzbek language it has become the term of one of the aphoristic genres, which is an example of folk wisdom, and is a well-said word, sentence or phrase. means nos. It can be seen that there is a direct semantic connection between the term genre and its poetic nature.",
+      "categories": "quant-ph",
+      "published_at": "2026-05-23",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162208857",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.5281/zenodo.20356859",
+      "title": "Microfinance, Entrepreneurship and Empowerment",
+      "authors": [
+        "Dr. Dinesh Kumar Gupta"
+      ],
+      "affiliations": [
+        "Kanya Maha Vidyalaya"
+      ],
+      "abstract": "Startups & Entrepreneurship: The Future of Youth of India Dinesh Kumar Gupta Abstract Entrepreneurship growth in India began in the 2000s and has been a transformative force for the country’s economy. This has been fuelled by the growth of the Indian economy, increased access to venture capital, the advent of incubators and the vast pool of talent. India has emerged as a global hub for the startup scene, ranking third with over 90,000 startups and 107 unicorn firms valued at $30 billion, behind only the United States and China, as published by Mint. There are government schemes for entrepreneurship development in India, such as the Startup India Action Plan which provides legal support, better regulations, tax benefits and economic incentives through the Fund of Funds initiative to provide",
+      "categories": "quant-ph",
+      "published_at": "2026-05-23",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162198954",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.5281/zenodo.20355170",
+      "title": "NEW LEGAL MECHANISMS FOR THE PROTECTION OF WOMEN AND CHILDREN FROM VIOLENCE AND ABUSE: CURRENT PRACTICE AND TRANSFORMATIONAL PROCESSES",
+      "authors": [
+        "Durdona Jong'aboyeva",
+        "Z. Kasimova"
+      ],
+      "affiliations": [
+        "Tata Institute of Fundamental Research"
+      ],
+      "abstract": "This article analyzes fundamental legislative reforms implemented to protect the rights of women and children in the Republic of Uzbekistan between 2019 and 2025. Specifically, it examines the practical effectiveness of new legal norms, such as the criminalization of domestic violence, the extension of judicial protection orders, and the restriction of the institution of reconciliation. The article also analyzes statistical indicators in law enforcement practice and offers scientific and practical recommendations for improving this area.",
+      "categories": "quant-ph",
+      "published_at": "2026-05-23",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162186008",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.5281/zenodo.20356860",
+      "title": "Microfinance, Entrepreneurship and Empowerment",
+      "authors": [
+        "Dr. Dinesh Kumar Gupta"
+      ],
+      "affiliations": [
+        "Kanya Maha Vidyalaya"
+      ],
+      "abstract": "Startups & Entrepreneurship: The Future of Youth of India Dinesh Kumar Gupta Abstract Entrepreneurship growth in India began in the 2000s and has been a transformative force for the country’s economy. This has been fuelled by the growth of the Indian economy, increased access to venture capital, the advent of incubators and the vast pool of talent. India has emerged as a global hub for the startup scene, ranking third with over 90,000 startups and 107 unicorn firms valued at $30 billion, behind only the United States and China, as published by Mint. There are government schemes for entrepreneurship development in India, such as the Startup India Action Plan which provides legal support, better regulations, tax benefits and economic incentives through the Fund of Funds initiative to provide",
+      "categories": "quant-ph",
+      "published_at": "2026-05-23",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162258705",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.5281/zenodo.20145506",
+      "title": "P18 Beyond General Relativity: A Unified Gravitation Equation Across Quantum, Classical, Galactic, and Rapid-Transition Regimes",
+      "authors": [
+        "V. K. Sharma"
+      ],
+      "affiliations": [
+        "Shree Guru Gobind Singh Tricentenary University"
+      ],
+      "abstract": "Standard gravitational theory, from Newtonian mechanics through the full framework of general relativity, provides an extraordinarily successful predictive account of observed gravitational phenomena using source-side quantities: mass density in the weak-field limit, and the complete stress-energy tensor in the relativistic setting. This predictive success does not by itself settle the ontological question of what immediate local physical entity is in the changed state when gravitation is actually measured at a detector or observation point. The present work argues that this question constitutes a distinct and previously under-examined layer of gravitational physics. Standard gravitational theory, from Newton through Einstein, provides an extraordinarily accurate predictor of gravitational",
+      "categories": "quant-ph",
+      "published_at": "2026-05-23",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162068426",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.5281/zenodo.20348660",
+      "title": "FREE CONSENT AND CAPACITY TO CONTRACT",
+      "authors": [
+        "Rishikeswaran. S"
+      ],
+      "affiliations": [
+        "SASTRA University"
+      ],
+      "abstract": "The Contract Law prescribes basic requisites for a contract to be legally enforceable, including free consent and competency of parties. The contract is void when the consent has not been genuine and obtained by coercion, fraud, misrepresentation, undue influence or mistake. Mistakes may be of facts, or law, affecting the agreements. It further provides that only persons who are not minors, of sound mind and not disqualified by any law will be competent to contract. Contracts with a minor therefore void-ab-initio, and contracts for the benefit of a minor enforceable. Analogous to this, the lunatics can contract only when they are sane. Others like alien enemy, foreign sovereigns, convicts, corporations acting beyond the scope of their power and insolvents are similarly precluded from contr",
+      "categories": "quant-ph",
+      "published_at": "2026-05-23",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162197166",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.5281/zenodo.20357069",
+      "title": "Bhuvaneswari's Comparative Framework for Modern Gravitational Models",
+      "authors": [
+        "Bhuvaneswari Varnam"
+      ],
+      "affiliations": [
+        "Jawaharlal Nehru Technological University, Hyderabad"
+      ],
+      "abstract": "This work presents a rigorous comparative framework that evaluates the vortex‑density model against the major gravitational theories used in contemporary physics. The analysis contrasts the physical assumptions, predictive capabilities, and limitations of relativistic gravity, Newtonian gravity, quantum field approaches, higher‑dimensional models, and modified dynamics. The vortex‑density model is shown to provide a unified, physically grounded mechanism that eliminates singularities, removes the need for dark matter, introduces quantized vortex momentum, and offers experimentally testable predictions across classical, quantum, and cosmological scales.",
+      "categories": "quant-ph",
+      "published_at": "2026-05-23",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162215610",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.5281/zenodo.20357070",
+      "title": "Bhuvaneswari's Comparative Framework for Modern Gravitational Models",
+      "authors": [
+        "Bhuvaneswari Varnam"
+      ],
+      "affiliations": [
+        "Jawaharlal Nehru Technological University, Hyderabad"
+      ],
+      "abstract": "This work presents a rigorous comparative framework that evaluates the vortex‑density model against the major gravitational theories used in contemporary physics. The analysis contrasts the physical assumptions, predictive capabilities, and limitations of relativistic gravity, Newtonian gravity, quantum field approaches, higher‑dimensional models, and modified dynamics. The vortex‑density model is shown to provide a unified, physically grounded mechanism that eliminates singularities, removes the need for dark matter, introduces quantized vortex momentum, and offers experimentally testable predictions across classical, quantum, and cosmological scales.",
+      "categories": "quant-ph",
+      "published_at": "2026-05-23",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162134876",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.29121/shodhgyan.v4.i1.2026.110",
+      "title": "CULINARY JOURNEY OF SELF-DISCOVERY AND EMPOWERMENT IN RATATOUILLE",
+      "authors": [
+        "Jolly Alex"
+      ],
+      "affiliations": [
+        "Christian Medical College"
+      ],
+      "abstract": "Ratatouille(2007) an animated movie is a nuanced exploration of the trans-formative power of art through resistance and self-belief. Its basic premise is about a rat who is blessed with an astute smell of taste and extra-ordinary passion for cooking who eventually emerges as the greatest chef in France. He challenges the stereotypical notion that only humans can cook and proves by his culinary expertise that one can transcend restricting power structures and chase one’s dreams and inspire others too to do likewise. The film is a tribute to pioneers who have been marginalised and alienated yet have dismantled oppressive structures, re-ordered power politics and sparked progressive ideological changes and validated their dreams. The protagonist Remy,illustrates the tension between submission",
+      "categories": "quant-ph",
+      "published_at": "2026-05-22",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162119173",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.71058/jodac.v10i05008",
+      "title": "AI for Advancing UN Sustainable Development Goals: Opportunities and Risks",
+      "authors": [
+        "Richa Sharma",
+        "Nidhi Srivastav",
+        "Meenakshi Nawal"
+      ],
+      "affiliations": [
+        "Institute of Technology Management"
+      ],
+      "abstract": "The United Nations’ 17 Sustainable Development Goals (SDGs) represent one of the most ambitious frameworks for global progress ever conceived, targeting an end to poverty, inequality, and environmental degradation by 2030. Artificial Intelligence (AI) has emerged as a transformative force with the potential to dramatically accelerate — or, if mismanaged, undermine — progress toward these goals. This paper provides a comprehensive analysis of how AI technologies are being applied across all 17 SDGs, examines the risks and ethical dimensions of AI-driven development, reviews the current global governance landscape, and proposes a multi-stakeholder framework for harnessing AI responsibly in service of humanity’s most pressing challenges. Our analysis reveals that AI’s contributions are most m",
+      "categories": "quant-ph",
+      "published_at": "2026-05-22",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162081613",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.25258/ijddt.16.46s.22",
+      "title": "The Convergence from Digital Space to Streets – Gen-Z and Its Impact on the Republic of Nepal: A Case Study",
+      "authors": [
+        "Hechu Bhagath",
+        "Dr. Anant D. Chinchure",
+        "Vana Ramanamurty",
+        "Kasi Viswasri Aditya Madhav",
+        "Ravikiran Nakod"
+      ],
+      "affiliations": [
+        "Central University of Karnataka",
+        "Karnataka State Dr.Gangubai Hanagal Music and Performing Arts University"
+      ],
+      "abstract": "The fusion of the virtual world and street politics has created a new understanding of contemporary political activism, especially among the younger generation, known as Generation Z. In 2025, the Republic of Nepal witnessed protests highlighting the potential for online activity to quickly translate into collective action on the streets, facilitated by social media platforms such as TikTok, Instagram, and YouTube. These technologies enabled both shaping the political narrative and organising protests. In Asia, similar trends have been seen among nations such as Bangladesh, Sri Lanka, and Myanmar, which have experienced digitally interconnected youth movements that have contested existing politics through decentralisation and a lack of leadership structure within their nations. The case of",
+      "categories": "quant-ph",
+      "published_at": "2026-05-22",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162124985",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.1021/acs.langmuir.6c01413",
+      "title": "Knifing Action of WS <sub>2</sub> Nanosheets Toward the Inner Membrane of <i>Escherichia coli</i> Compared to Its Mild and Conditional Detrimental Effect on the Bacterial Membrane of <i>S. aureus</i>",
+      "authors": [
+        "Ayishwarya Dutta",
+        "Sonal Jain",
+        "Hemant K. Kashyap"
+      ],
+      "affiliations": [
+        "Indian Institute of Technology Delhi"
+      ],
+      "abstract": "The global rise in mortality rates due to drug-resistant infections necessitates the development of medicinal alternatives, with membrane-targeting antibacterial nanomaterials representing a promising strategy due to their inherently low propensity for resistance development. Notably, two-dimensional transition-metal dichalcogenides (TMDs), such as tungsten disulfide (WS2), have emerged as promising broad-spectrum, membrane-mediated antibacterial agents with favorable biocompatibility. Herein, we investigate the antibacterial mode of action of WS2 nanosheets against two popular pathogenic bacterial strains: Escherichia coli (E. coli) and Staphylococcus aureus (S. aureus) using atomistic molecular dynamics simulations. The study reveals the spontaneous permeation of freely dispersed WS2 she",
+      "categories": "quant-ph",
+      "published_at": "2026-05-22",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162067290",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.21203/rs.3.rs-9365370/v1",
+      "title": "Developing Drug System Standards in Primary Care Units Using the SMART Model: A Participatory Action Research Study in Northern Thailand",
+      "authors": [
+        "Sunthiwat Lertphanithit",
+        "Anthika Boonma",
+        "Ongart Maneemai"
+      ],
+      "affiliations": [
+        "Kamdhenu University"
+      ],
+      "abstract": "",
+      "categories": "quant-ph",
+      "published_at": "2026-05-22",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162128629",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.55041/ijcope.v2i5.671",
+      "title": "Transformative Women-Centered Governance in Tamil Nadu: A Critical Study of Chief Minister C. Joseph Vijay’s “Singa Pen Sirappu Athiradi Padai” and its Role in Advancing Women’s Safety, Social Justice, and Inclusive Democratic Development",
+      "authors": [
+        "Dr. A. ABDUL KAREEM Dr. A. ABDUL KAREEM"
+      ],
+      "affiliations": [
+        "Thiruvalluvar University"
+      ],
+      "abstract": "This study critically examines the innovative women-centered governance model introduced by Tamil Nadu’s Chief Minister C. Joseph Vijay, focusing on the “Singa Pen Sirappu Athiradi Padai” (Women’s Special Action Force). Launched in May 2026, this initiative aims to enhance women’s safety, promote social justice, and foster inclusive democratic development. The scheme employs modern technology such as surveillance cameras, helpline services, and community policing to create safer public spaces for women. It emphasizes rapid response, gender-sensitive policing, and administrative reforms to address gender-based crimes like harassment, domestic violence, and cybercrime. The study evaluates the initiative’s implementation, its impact on women’s confidence and security, and its role in strength",
+      "categories": "quant-ph",
+      "published_at": "2026-05-22",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162005426",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.1016/j.pnpbp.2026.111752",
+      "title": "Precision pharmacology of CNS GPCRs: From biased signaling to translational therapeutics",
+      "authors": [
+        "Teja Reddy Gujjula",
+        "E. Bhavya",
+        "Reena Gupta",
+        "Prem Saini",
+        "T.B. Sabitha",
+        "P. Krishnamoorthy",
+        "Ramgopal Singh",
+        "Vipasha Mehta",
+        "Abrar Ahmad Zargar"
+      ],
+      "affiliations": [
+        "Saveetha University",
+        "GLA University",
+        "Uttarakhand Technical University",
+        "Dehradun Institute of Technology University",
+        "Indian Institute of Technology Palakkad",
+        "Madurai Medical College",
+        "Mangalayatan University",
+        "Chitkara University"
+      ],
+      "abstract": "",
+      "categories": "quant-ph",
+      "published_at": "2026-05-21",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7161938390",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.18357/cjpe.2026.40.1.1212",
+      "title": "Translating Evidence to Action in a Post-Truth World",
+      "authors": [
+        "Hur Hassnain",
+        "Michael Quinn Patton"
+      ],
+      "affiliations": [
+        "Evalueserve (India)"
+      ],
+      "abstract": "In today’s post-truth socio-political landscape, characterised by populism, misinformation, and systematic threats to equity and sustainability, traditional evaluation methods may often fall short. This paper introduces a framework built around four interrelated approaches: principles-focused, participatory, developmental, and resilience-oriented evaluation. Together, these approaches provide evaluators with practical strategies for countering misinformation, embedding community ownership of evidence, and fostering adaptive learning that builds resilience. The framework is distinct from prebunking or debunking in that it centres on the evaluation process itself; how evidence is generated, validated, and used with communities, rather than on correcting falsehoods alone. The framework presen",
+      "categories": "quant-ph",
+      "published_at": "2026-05-21",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7161987669",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.1134/s020228932670009x",
+      "title": "Algebraic Solutions of Modified Field Equations in Anisotropic $$\\boldsymbol{f(R,L_{m})}$$ Cosmology",
+      "authors": [
+        "S. H. Shekh",
+        "Anil Kumar Yadav",
+        "Anirudh Pradhan",
+        "N. Myrzakulov",
+        "Preeti Shrivastava"
+      ],
+      "affiliations": [
+        "G.S. Science, Arts And Commerce College",
+        "Sambalpur University Institute of Information Technology",
+        "GLA University",
+        "Hans Raj Mahila Maha Vidyalaya"
+      ],
+      "abstract": "We explore anisotropic cosmological models within the framework of modified gravity theory, specifically $$f(R,L_{m})$$ gravity, where the gravitational Lagrangian depends on both the Ricci scalar $$R$$ and the matter Lagrangian $$L_{m}$$ . We adopt the locally rotationally symmetric (LRS) Bianchi type I metric to investigate anisotropic cosmic evolution, which allows for directional dependence in the expansion rates while retaining analytical tractability. The modified field equations are derived using a particular form of the function $$f(R,L_{m})=R/2+L_{m}^{\\alpha}$$ , where $$\\alpha$$ quantifies the strength of the curvature-matter coupling. To obtain exact solutions, we consider power-law forms for the directional scale factors and study the cosmological dynamics under three distinct ",
+      "categories": "quant-ph",
+      "published_at": "2026-05-21",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7161816305",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.5281/zenodo.20315211",
+      "title": "CYBERBULLYING AND MENTAL HEALTH: EXAMINING THE PSYCHOLOGICAL IMPACT ON ADOLESCENTS AND YOUNG ADULTS",
+      "authors": [
+        "Nikhita.N and Negapragathi.S"
+      ],
+      "affiliations": [
+        "SASTRA University"
+      ],
+      "abstract": "Type and Efficacy of Cyberbullying Interventions In the era of social media, cybercrime seems to be described as a psychosociomedical (sociomedic) concern for global leaders with teens or young adults utilizing more frequently social media or some other devices. At the same time bringing lots of experts from introduce it as a new technological development too fast for historical → transformed by smartphones and also present-day children can lead very easily observing to cyber differently kind any abuse or impersonation acts like (cyberbully)→online – Harrasment. Second, it comes from another form of cyberstalker because castings trolls on one tablespoon for the good (Cyberbullyofend) for not deal with people who attack others innocent people that does not defends and hot spotting wrong inf",
+      "categories": "quant-ph",
+      "published_at": "2026-05-21",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7161976287",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.1016/j.mmifmc.2026.04.311",
+      "title": "Résultats de l'étude CLARITY sur les antirétroviraux injectables à action prolongée",
+      "authors": [
+        "J. Boles",
+        "E. Elliot",
+        "D. Fox",
+        "A. Vutikullird",
+        "A. Mottola",
+        "K. Fletcher",
+        "K. Wang",
+        "S. Somvanshi",
+        "R. Grove",
+        "K. Nelson",
+        "L. Dupont-Benjamin",
+        "J. Van wyk",
+        "H. Garges",
+        "K. Brown",
+        "S. Hjiej"
+      ],
+      "affiliations": [
+        "GlaxoSmithKline (India)"
+      ],
+      "abstract": "",
+      "categories": "quant-ph",
+      "published_at": "2026-05-21",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162238959",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.70593/978-93-7185-084-1",
+      "title": "Sustainable and Smart Agriculture: Innovations, Climate Resilience and Food Security",
+      "authors": [
+        "Eahya Al Huda",
+        "Chandrashekar Konda",
+        "Ngawang Drema Trangpoder"
+      ],
+      "affiliations": [
+        "University of Science and Technology, Meghalaya",
+        "University College for Women",
+        "Arunai Engineering College"
+      ],
+      "abstract": "The field of agriculture is at a very critical crossroad since it must contend with the twin challenge of feeding an increasing population in the world as well as addressing the immediate issue of climate change and environmental degradation. Sustainable and Smart Agriculture: Innovations, Climate Resiliency and Food Security is an edited volume that can unify a variety of perspectives, research, and practicability to find disconnected solutions to these interconnected challenges. The book emphasizes the infusion of innovative technologies like precision farming, artificial intelligence, the Internet of Things (IoT) and data-based decision-making initiative with conventional agricultural knowledge systems. It underlines the necessity of developing productivity and saving natural resources,",
+      "categories": "quant-ph",
+      "published_at": "2026-05-21",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162184361",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.71355/2542-6222.1734",
+      "title": "Early Experiential Learning to Foster Cultural Responsiveness in Medical Students",
+      "authors": [
+        "Shilpa Hd",
+        "Archana Shetty"
+      ],
+      "affiliations": [
+        "Dr. Hari Singh Gour University"
+      ],
+      "abstract": "",
+      "categories": "quant-ph",
+      "published_at": "2026-05-21",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7161958420",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.5281/zenodo.20084378",
+      "title": "Beyond Participation: Citizen Science, Policy Impact and Economic Value",
+      "authors": [
+        "Stefanie Schürz",
+        "Barbara Kieslinger",
+        "Teresa Holocher",
+        "Mireia Ros"
+      ],
+      "affiliations": [
+        "IT for Change"
+      ],
+      "abstract": "In this book, we illustrate how citizen science efforts create policy and economic impact – on a regional, national and international level. The impact stories showcase what can be achieved when municipalities, ministries, (inter-)national funding bodies, and the private sector invest in citizen science, and how this is beneficial for European societies. This book focuses on the tangible effects that citizen science has at various levels, from a global scale to local initiatives, on shaping policies and creating economic value. Building on the success of the previous collection, which showcased 12 stories across Europe illustrating the power of collective action and inclusivity at the local level, this publication continues our mission to highlight how citizen science is an important vehic",
+      "categories": "quant-ph",
+      "published_at": "2026-05-21",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7161764948",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.5281/zenodo.20315212",
+      "title": "CYBERBULLYING AND MENTAL HEALTH: EXAMINING THE PSYCHOLOGICAL IMPACT ON ADOLESCENTS AND YOUNG ADULTS",
+      "authors": [
+        "Nikhita.N and Negapragathi.S"
+      ],
+      "affiliations": [
+        "SASTRA University"
+      ],
+      "abstract": "Type and Efficacy of Cyberbullying Interventions In the era of social media, cybercrime seems to be described as a psychosociomedical (sociomedic) concern for global leaders with teens or young adults utilizing more frequently social media or some other devices. At the same time bringing lots of experts from introduce it as a new technological development too fast for historical → transformed by smartphones and also present-day children can lead very easily observing to cyber differently kind any abuse or impersonation acts like (cyberbully)→online – Harrasment. Second, it comes from another form of cyberstalker because castings trolls on one tablespoon for the good (Cyberbullyofend) for not deal with people who attack others innocent people that does not defends and hot spotting wrong inf",
+      "categories": "quant-ph",
+      "published_at": "2026-05-21",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162026990",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.1016/j.foohum.2026.101249",
+      "title": "Hepatotoxicity of anti-tuberculosis therapy and the hepatoprotective effect of traditional medicine",
+      "authors": [
+        "Damini C.",
+        "Anuj Nautiyal",
+        "Bharat Joshi",
+        "Vishu Kumar",
+        "Dev Singh Jangpangi",
+        "Subhash Chandra",
+        "Samir Bhargava",
+        "Bhavna Kumar",
+        "Henrique D. M Coutinho",
+        "Gorika Tomar"
+      ],
+      "affiliations": [
+        "Dehradun Institute of Technology University",
+        "Himalayan University",
+        "Uttarakhand Technical University"
+      ],
+      "abstract": "",
+      "categories": "quant-ph",
+      "published_at": "2026-05-21",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162007964",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.1007/s42824-026-00249-1",
+      "title": "Utilization of Construction and Demolition Waste in Rigid Pavement",
+      "authors": [
+        "Md Qurban Ali",
+        "Sailee Rasal",
+        "Neha Tatkare",
+        "Nandini Gije",
+        "Chaitali Isal"
+      ],
+      "affiliations": [
+        "Advanced Centre for Treatment, Research and Education in Cancer"
+      ],
+      "abstract": "",
+      "categories": "quant-ph",
+      "published_at": "2026-05-21",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162039778",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.5281/zenodo.20084379",
+      "title": "Beyond Participation: Citizen Science, Policy Impact and Economic Value",
+      "authors": [
+        "Stefanie Schürz",
+        "Barbara Kieslinger",
+        "Teresa Holocher",
+        "Mireia Ros"
+      ],
+      "affiliations": [
+        "IT for Change"
+      ],
+      "abstract": "In this book, we illustrate how citizen science efforts create policy and economic impact – on a regional, national and international level. The impact stories showcase what can be achieved when municipalities, ministries, (inter-)national funding bodies, and the private sector invest in citizen science, and how this is beneficial for European societies. This book focuses on the tangible effects that citizen science has at various levels, from a global scale to local initiatives, on shaping policies and creating economic value. Building on the success of the previous collection, which showcased 12 stories across Europe illustrating the power of collective action and inclusivity at the local level, this publication continues our mission to highlight how citizen science is an important vehic",
+      "categories": "quant-ph",
+      "published_at": "2026-05-21",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162218158",
+      "arxiv_id": "",
+      "doi": "",
+      "title": "Algebraic and analytic Brauer groups of homogeneous spaces",
+      "authors": [
+        "Saurav Bhaumik",
+        "Pinakinath Saha"
+      ],
+      "affiliations": [
+        "Indian Institute of Technology Bombay",
+        "Indian Institute of Technology Delhi"
+      ],
+      "abstract": "In this article, we compute both the algebraic and the analytic Brauer groups of a homogeneous space under the action of a connected, simply connected, semisimple complex algebraic group, where the stabilizer subgroup is closed and connected.",
+      "categories": "quant-ph",
+      "published_at": "2026-05-21",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7161819423",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.4018/979-8-2600-2020-3.ch003",
+      "title": "Artificial Intelligence and Climate Action",
+      "authors": [
+        "Manoj Govindaraj",
+        "S. Shafik",
+        "Jenifer Lawrence"
+      ],
+      "affiliations": [
+        "Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology"
+      ],
+      "abstract": "Artificial Intelligence (AI) is increasingly recognized as a transformative enabler in addressing climate change and accelerating sustainable transitions. This paper proposes a conceptual and theoretical framework that integrates AI with climate action strategies, focusing on decarbonization across key sectors such as energy, transportation, industry, agriculture, and urban systems. Drawing on systems theory, socio-technical transition perspectives, ecological modernization, and digital sustainability paradigms, the study positions AI as both a technological catalyst and a governance tool for enhancing resource efficiency, improving predictive climate modeling, strengthening carbon accounting, and enabling data-driven policy decisions. The framework explains how machine learning, big data ",
+      "categories": "quant-ph",
+      "published_at": "2026-05-20",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7161778382",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.5281/zenodo.20314813",
+      "title": "Introductions, Definitions and scope of pharmacology- Pharmacology Decoded A Student Collaborative Clinical Compendium",
+      "authors": [
+        "Ayushreeya Banga",
+        "Bintoo Sharma",
+        "Sachin Kumar",
+        "Rohtash Singh"
+      ],
+      "affiliations": [
+        "Indo Soviet Friendship College of Pharmacy",
+        "The Sanskrit College and University",
+        "Dabur (India)",
+        "Hindu College of Pharmacy"
+      ],
+      "abstract": "",
+      "categories": "quant-ph",
+      "published_at": "2026-05-20",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7161800361",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.34218/jaiml_05_01_004",
+      "title": "EXTENDED WALTZ OPERATOR FOR DYNAMICALLY MOVING AGENTS",
+      "authors": [
+        "Ben Mathew",
+        "Marius Silaghi",
+        "Akram Alghanmi"
+      ],
+      "affiliations": [
+        "National Institute of Ocean Technology"
+      ],
+      "abstract": "When robots mapping a scene move, they capture additional images, which bring new perspectives and there-fore new constraints and edges into the problem.Accommodating these new data while reusing as much as possible of previous inferences, as well as using partial results to guide decisions related to new movements that can bring the needed data to reduce uncertainty, defines the challenges addressed in our research.",
+      "categories": "quant-ph",
+      "published_at": "2026-05-20",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7161828109",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.1016/j.scca.2026.100212",
+      "title": "Quality by design- assisted green HPLC and UPLC methods: Advancing sustainable analytical chemistry for climate action - a review",
+      "authors": [
+        "Sujith Kumar K",
+        "Kokilambigai K S",
+        "R. Seetharaman"
+      ],
+      "affiliations": [
+        "SRM Institute of Science and Technology",
+        "Ragas Dental College & Hospital"
+      ],
+      "abstract": "Integrating Green Analytical Chemistry (GAC) and Analytical Quality by Design (AQbD) is a milestone development which drives the direction of research towards inevitable paradigm shift of developing, designing, and running of analytical approaches. These approaches are designed, built and operated in a manner that makes them sustainably designed, operationally effective as well as intuitively sound. Notably, entire product lifecycle dictates the application of GAC principles, i.e. minimization of reagents of hazard, minimization of waste streams and optimization energy consumed, in the AQbD framework which ultimately results in environmentally benign and scientifically rigorous analytical procedures. The review includes the description of the practice of integrating GAC with AQbD principle",
+      "categories": "quant-ph",
+      "published_at": "2026-05-20",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7161905911",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.5281/zenodo.20316109",
+      "title": "Non-Dissipative Confinement of Unreduced Maxwellian Plasma via Hala Operator Phase Geometry",
+      "authors": [
+        "Ahmed M. Hala"
+      ],
+      "affiliations": [
+        "Dr. R. Ahmed Dental College and Hospital"
+      ],
+      "abstract": "Traditional magnetic confinement relies on brittle Hamiltonian models that fail to capture the non-linear, multi-scale macro-instabilities of high-energy plasmas. This paper introduces an alternative paradigm, mapping unreduced Maxwellian field potentials into a practical, semi-chaotic Sprott A analog. This system features an infinite line of fixed points along a shared, volume-preserving z-axis that acts as a topological defect loophole. We demonstrate the action of a non-dissipative geometric operator—the Hala Operator—projected onto this coordinate. By applying a skew-symmetric harmonic constraint, the operator forces an inverse regularity cascade without modifying global phase-space divergence or inducing a plasma current quench. The space-filling chaotic strands systematically collaps",
+      "categories": "quant-ph",
+      "published_at": "2026-05-20",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7161766417",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.4018/979-8-2600-2020-3.ch004",
+      "title": "Artificial Intelligence for Climate Action and Sustainability Transitions",
+      "authors": [
+        "D. V. Lokeshwari",
+        "Reynal Lavita Fernandes",
+        "Vinutha K."
+      ],
+      "affiliations": [
+        "G.S. Science, Arts And Commerce College",
+        "Christ University"
+      ],
+      "abstract": "This chapter introduces a methodical study of the literature on artificial intelligence (AI) application in climate action and sustainability transitions based on the issue of clarity of the concepts, their integration into governance, and trends of the research. The review determines the research currently conducted in the field of interdisciplinary investigations of the support of AI to mitigation, adaptation, and resilience and creates environmental and social risks. It determines the weak points in operationalization of governance and empirically validates and suggests a comprehensive governance-by-design architecture so as to harmonize the interests of AI innovation and sustainability and responsible transition strategies.",
+      "categories": "quant-ph",
+      "published_at": "2026-05-20",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7161965178",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.1177/00490857261435010",
+      "title": "The Moral Economy of Mushrooms",
+      "authors": [
+        "Abdul Basith PK",
+        "Sherin Sabu"
+      ],
+      "affiliations": [
+        "University of Madras",
+        "Indian Institute of Technology Jodhpur"
+      ],
+      "abstract": "This article examines wild-mushroom foraging in Wayanad, Kerala, as an instance of everyday collective action that unsettles the hierarchies of caste, class, and knowledge within a neoliberal agrarian economy. Through ethnographic fieldwork and micro-phenomenological attention to smell, sound, and memory, the study examines how communities mobilise mushroom foraging as a moral economy (Thompson, 1971, Past &amp; Present , 50 (1), 76–136). Mushrooms, ephemeral, uncommodified, and undomesticable, constitute a ‘liminal’ (van Gennep, 1960, The Rites of Passage ) good that resists capitalist extraction and complete social erasure. Their gathering depends on inter-sensory collaboration, kinship beyond blood relation, and moral negotiations of access and gifting that reconfigure property relation",
+      "categories": "quant-ph",
+      "published_at": "2026-05-20",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7161786599",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.5281/zenodo.20310050",
+      "title": "tskit-dev/msprime: Bugfix release",
+      "authors": [
+        "Jerome Kelleher",
+        "Peter Ralph",
+        "Ben Jeffery",
+        "Yan Wong",
+        "Dominic Nelson",
+        "Graham Gower",
+        "Gertjan Bisschop",
+        "Jaime Ashander",
+        "Andrew Kern",
+        "Michael Matschiner",
+        "fbaumdicker",
+        "Joe Zhu",
+        "Georgia Tsambos",
+        "Hossameldin Ali",
+        "Aaron Ragsdale",
+        "Daniel Goldstein",
+        "Kevin R. Thornton",
+        "Hugo van Kemenade",
+        "Castedo Ellerman",
+        "Ariella Gladstein",
+        "Bing Guo",
+        "Nik Baya",
+        "Consuelo Quinto",
+        "Gregor Gorjanc",
+        "TPPSellinger",
+        "Anthony Wilder Wohns",
+        "Daiki Tagami"
+      ],
+      "affiliations": [
+        "Centre For Human Genetics"
+      ],
+      "abstract": "Bug fixes Fix edge case in SMC(k) model where a random value of exactly zero triggered an assert. (#2523, #2525, @currocam, @jeromekelleher).",
+      "categories": "quant-ph",
+      "published_at": "2026-05-20",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7161834443",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.4018/979-8-2600-2020-3.ch005",
+      "title": "Artificial Intelligence for Climate Action and Sustainable Transitions",
+      "authors": [
+        "Siddharth Shankar Mishra",
+        "Srreya Sharma",
+        "Yugank Sharma",
+        "Manvendra Singh"
+      ],
+      "affiliations": [
+        "University of Petroleum and Energy Studies"
+      ],
+      "abstract": "This chapter advances a novel integrative perspective on artificial intelligence (AI) in climate action by moving beyond fragmented, sector-specific applications toward a unified environmental governance framework. Its primary contribution lies in developing a conceptual and analytical model that positions AI as a coordination layer linking agriculture, water systems, biodiversity, and climate governance within adaptive decision-support architectures. The chapter demonstrates how AI-enabled environmental intelligence—through predictive analytics, optimization, and scenario modeling—can enhance cross-sectoral decision-making, improve resource allocation, and enable anticipatory governance under climate uncertainty. By integrating heterogeneous data sources, AI offers significant opportuniti",
+      "categories": "quant-ph",
+      "published_at": "2026-05-20",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7161773640",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.4018/979-8-2600-2020-3.ch001",
+      "title": "Responsible AI for Climate Action",
+      "authors": [
+        "G. Silambarasan",
+        "Gautam Shivaraj"
+      ],
+      "affiliations": [
+        "Periyar University"
+      ],
+      "abstract": "AI is increasingly promoted as a transformative enabler of climate mitigation and adaptation, offering capabilities in renewable energy optimization, disaster prediction, precision agriculture, and smart infrastructure management. However, the rapid expansion of AI systems introduces significant environmental trade-offs. Training and deploying large-scale models require substantial computational power, contributing to rising electricity demand, water-intensive cooling, and growing electronic waste from hardware production and disposal. Moreover, efficiency gains enabled by AI may generate rebound effects, where reduced operational costs stimulate increased consumption, potentially offsetting emission reductions. This chapter critically examines AI's dual role as both a climate solution and",
+      "categories": "quant-ph",
+      "published_at": "2026-05-20",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162149744",
+      "arxiv_id": "",
+      "doi": "",
+      "title": "Improved Guarantees for Constrained Online Convex Optimization via Self-Contraction",
+      "authors": [
+        "Dhruv Sarkar",
+        "Abhishek Sinha"
+      ],
+      "affiliations": [
+        "Tata Institute of Fundamental Research",
+        "Indian Institute of Technology Kharagpur"
+      ],
+      "abstract": "We consider Constrained Online Convex Optimization (COCO) with adversarially chosen constraints. At each round, the learner chooses an action before observing the loss and constraint function for that round. The goal is to achieve small static regret against the best point satisfying all constraints while also controlling cumulative constraint violation ($\\mathsf{CCV}$). For strongly convex losses, state-of-the-art algorithms achieve $O(\\log T)$ regret and $O(\\sqrt{T \\log T})$ $\\mathsf{CCV}.$ The corresponding best-known bounds for convex losses is $O(\\sqrt{T})$ regret and $O(\\sqrt{T} \\log T)$ $\\mathsf{CCV}$. In this paper, we give a simple projection-based algorithm that simultaneously achieves $O(\\log T)$ regret and $O(\\log T)$ $\\mathsf{CCV}$ for strongly-convex losses, yielding an expon",
+      "categories": "quant-ph",
+      "published_at": "2026-05-20",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7161779777",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.1016/j.prenap.2026.100767",
+      "title": "Box–Behnken optimization of conventional excipients to examine curcumin’s effect on lipase",
+      "authors": [
+        "Nitika Mor",
+        "Neera Raghav"
+      ],
+      "affiliations": [
+        "Baba Mastnath University",
+        "Kurukshetra University"
+      ],
+      "abstract": "",
+      "categories": "quant-ph",
+      "published_at": "2026-05-20",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7161765600",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.5281/zenodo.20314812",
+      "title": "Introductions, Definitions and scope of pharmacology- Pharmacology Decoded A Student Collaborative Clinical Compendium",
+      "authors": [
+        "Ayushreeya Banga",
+        "Bintoo Sharma",
+        "Sachin Kumar",
+        "Rohtash Singh"
+      ],
+      "affiliations": [
+        "Indo Soviet Friendship College of Pharmacy",
+        "The Sanskrit College and University",
+        "Dabur (India)",
+        "Hindu College of Pharmacy"
+      ],
+      "abstract": "",
+      "categories": "quant-ph",
+      "published_at": "2026-05-20",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7161838766",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.5281/zenodo.20316108",
+      "title": "Non-Dissipative Confinement of Unreduced Maxwellian Plasma via Hala Operator Phase Geometry",
+      "authors": [
+        "Ahmed M. Hala"
+      ],
+      "affiliations": [
+        "Dr. R. Ahmed Dental College and Hospital"
+      ],
+      "abstract": "Traditional magnetic confinement relies on brittle Hamiltonian models that fail to capture the non-linear, multi-scale macro-instabilities of high-energy plasmas. This paper introduces an alternative paradigm, mapping unreduced Maxwellian field potentials into a practical, semi-chaotic Sprott A analog. This system features an infinite line of fixed points along a shared, volume-preserving z-axis that acts as a topological defect loophole. We demonstrate the action of a non-dissipative geometric operator—the Hala Operator—projected onto this coordinate. By applying a skew-symmetric harmonic constraint, the operator forces an inverse regularity cascade without modifying global phase-space divergence or inducing a plasma current quench. The space-filling chaotic strands systematically collaps",
+      "categories": "quant-ph",
+      "published_at": "2026-05-20",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7161793352",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.4103/aip.aip_272_25",
+      "title": "From Screen to Society: A Reflexive Thematic Analysis of Netflix’s Adolescence",
+      "authors": [
+        "M. Saadhiha Taj",
+        "Smitha Baboo",
+        "Pratima Mishra",
+        "Ratna Dixit Sharma"
+      ],
+      "affiliations": [
+        "Christ University",
+        "Banasthali University"
+      ],
+      "abstract": "Abstract Background: This study examines the deeper psychological and societal implications of the Netflix series Adolescence , which has sparked substantial discourse on social media. By analyzing the dramatized portrayal of a juvenile offender, the research seeks to understand key realities of adolescent development, behavior, and vulnerability in the digital age, and what leads to their fractured development. The novelty of this paper lies in being the first to systematically examine Netflix’s Adolescence , a globally streamed series, by bridging entertainment media and adolescent developmental research, and offering insights beyond conventional psychological and sociological approaches. Methods: A reflexive thematic analysis (RTA) following Braun and Clarke’s framework is conducted to ",
+      "categories": "quant-ph",
+      "published_at": "2026-05-20",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7161623031",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.55041/ijcope.v2i5.569",
+      "title": "AI-Based Healthcare System for Health Risk Prediction and Symptom Analysis Using Machine Learning",
+      "authors": [
+        "MANASHA S MANASHA S",
+        "MATHIYARASI S MATHIYARASI S",
+        "VINOTHA R VINOTHA R",
+        "KANAGADURGA N KANAGADURGA N"
+      ],
+      "affiliations": [
+        "Open International University for Alternative Medicines"
+      ],
+      "abstract": "The advent of Artificial Intelligence (AI) in the field of modern medicine can be considered revolutionary as this technology enables intelligent clinical data analysis and early detection of possible diseases. This paper suggests Artificial Intelligence-Driven Healthcare System for Early Risk Detection and Patient Guidance aimed at predicting the health risk level of a patient and recommending corresponding action based on symptoms analysis using machine learning algorithms. The proposed system uses a trained Random Forest model for classifying the patients into two categories, namely, High Risk or Low Risk based on age, blood pressure, and glucose level parameters. Moreover, in addition to the classification algorithm, the system performs analysis of the user-entered symptoms and makes p",
+      "categories": "quant-ph",
+      "published_at": "2026-05-19",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7161695333",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.1016/j.prenap.2026.100769",
+      "title": "Dual COX/LOX inhibition and anti-edematous activity of Jasminum azoricum L. extract: A pharmacological evaluation",
+      "authors": [
+        "S. Luke",
+        "Prasanth Bhatt"
+      ],
+      "affiliations": [
+        "SRM Institute of Science and Technology"
+      ],
+      "abstract": "",
+      "categories": "quant-ph",
+      "published_at": "2026-05-19",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7161697058",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.5281/zenodo.20283307",
+      "title": "united-manufacturing-hub/united-manufacturing-hub: v0.44.21 - Bridge Edit Hotfix",
+      "authors": [
+        "Jeremy Theocharis",
+        "Jennifer Linnenberg",
+        "P. Herrmann",
+        "Matteo Danelon",
+        "Janik K.",
+        "FalconTube",
+        "Oto.Nak",
+        "Roger Paland",
+        "Semantic Release Bot",
+        "Lars",
+        "Athavan Kanapuli",
+        "daniel-umh",
+        "JonaVo",
+        "kruegeralex",
+        "Ricardo Christmann",
+        "Matthew Judijanto",
+        "Arne",
+        "Lukas Hennies",
+        "Pascal Bro",
+        "Patrick Melichar",
+        "Robert Feldmann",
+        "Emlinger",
+        "AMINE AMAACH",
+        "Claude",
+        "Derek Tiffany",
+        "actions-user"
+      ],
+      "affiliations": [
+        "Anthropological Survey of India"
+      ],
+      "abstract": "Fixes Editing or deploying a bridge with an invalid config could hang the Management Console in \"executing\" indefinitely — umh-core's rollback path crashed mid-execution, the instance restarted, and the UI never received a final reply. The bridge often ended up needing delete + recreate to recover. The edit/deploy now ends with a clear failure when the rollback succeeds. Affects v0.44.19 An unexpected error in umh-core (e.g. editing or deploying a bridge) used to restart the umh-core instance and leave the operation stuck in \"executing\". Affected operations now end with a clear failure message (Internal error: <type> action failed unexpectedly. UMH engineering has been notified.) while the rest of the instance keeps running",
+      "categories": "quant-ph",
+      "published_at": "2026-05-19",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7161743065",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.5281/zenodo.20288925",
+      "title": "FLOWRRA: Flow Recognition Reconfiguration Agent",
+      "authors": [
+        "Rohit Tamidapati"
+      ],
+      "affiliations": [
+        "Indian Institute of Technology Dharwad"
+      ],
+      "abstract": "Abstract—This paper presents FLOWRRA (Flow Recognition Reconfiguration Agent), a novel flow recognition and self reconfiguring cognitive architecture that redefines the agent-environment boundary through recursive autopoiesis and retrocausal flow regulation. FLOWRRA draws upon and synthesizes principles from Active Inference [1], Bayesian Reinforcement Learning (BRL) [2], Graph Neural Networks (GNNs) [3], Meta-Reinforcement Learning [4], and Robust Reinforcement Learning [5]. FLOWRRA unifies these paradigms into a system in which the agent acts upon itself as an environment. Rather than solely minimizing prediction error, FLOWRRA’s core objective is to preserve internal flow. It achieves this by detecting disturbances and collapsing a probabilistic wave function representing coherent self-",
+      "categories": "quant-ph",
+      "published_at": "2026-05-19",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7161936942",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.25258/ijddt.16.30s.51",
+      "title": "Perception and Treatment Outcomes of Clear Aligner Therapy (Cat) Among Dental Practitioners: A Cross-Sectional Study",
+      "authors": [
+        "Shifaya Fathima A",
+        "R. Saravanan",
+        "Jeevana Poovalingam",
+        "M. K. Karthikeyan",
+        "N Raj Vikram",
+        "P.S. Rajakumar"
+      ],
+      "affiliations": [
+        "Dr. M.G.R. Educational and Research Institute"
+      ],
+      "abstract": ".",
+      "categories": "quant-ph",
+      "published_at": "2026-05-19",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7161998813",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.25258/ijddt.16.30s.59",
+      "title": "Neurogenetic Psychometrics of Stress: A Multidimensional Framework for Intelligence, Personality, and Adaptability",
+      "authors": [
+        "Surya S",
+        "Dr Asha Sundaram",
+        "Thangamayan Thangamayan"
+      ],
+      "affiliations": [
+        "Saveetha University"
+      ],
+      "abstract": "The human mind, with its vast capacities for thought, emotion, and action, has long been a subject of profound fascination and scientific inquiry. Concepts such as \"intelligence\" and \"personality\" are woven into the fabric of our daily language, used to describe ourselves and others, to explain successes, and to understand failures. Yet, for much of history, these concepts remained in the realm of the abstract, accessible only through introspection and philosophical debate. The field of psychometrics represents a monumental shift in this understanding, providing the scientific framework to translate these abstract psychological constructs into tangible, measurable, and comparable data. The role of neurogenetic varna personality traits matrix has the entailed determination action of stress ",
+      "categories": "quant-ph",
+      "published_at": "2026-05-19",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7161690940",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.5281/zenodo.20288924",
+      "title": "FLOWRRA: Flow Recognition Reconfiguration Agent",
+      "authors": [
+        "Rohit Tamidapati"
+      ],
+      "affiliations": [
+        "Indian Institute of Technology Dharwad"
+      ],
+      "abstract": "Abstract—This paper presents FLOWRRA (Flow Recognition Reconfiguration Agent), a novel flow recognition and self reconfiguring cognitive architecture that redefines the agent-environment boundary through recursive autopoiesis and retrocausal flow regulation. FLOWRRA draws upon and synthesizes principles from Active Inference [1], Bayesian Reinforcement Learning (BRL) [2], Graph Neural Networks (GNNs) [3], Meta-Reinforcement Learning [4], and Robust Reinforcement Learning [5]. FLOWRRA unifies these paradigms into a system in which the agent acts upon itself as an environment. Rather than solely minimizing prediction error, FLOWRRA’s core objective is to preserve internal flow. It achieves this by detecting disturbances and collapsing a probabilistic wave function representing coherent self-",
+      "categories": "quant-ph",
+      "published_at": "2026-05-19",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7161568720",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.1073/pnas.2610939123",
+      "title": "Extremism does not stop at borders, and neither should our models",
+      "authors": [
+        "Milad Sharafi Zadegan",
+        "Dritjon Gruda",
+        "Peter K. Jonason"
+      ],
+      "affiliations": [
+        "Vikram University"
+      ],
+      "abstract": "",
+      "categories": "quant-ph",
+      "published_at": "2026-05-18",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7161543803",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.21203/rs.3.rs-9532360/v1",
+      "title": "Good yet Guilty- Exploring Parental Guilt and Self-forgiveness among Indian parents of Young Children",
+      "authors": [
+        "Poulami Sengupta",
+        "Vidisha Rai",
+        "Atasi Mohanty"
+      ],
+      "affiliations": [
+        "Indian Institute of Technology Indore"
+      ],
+      "abstract": "",
+      "categories": "quant-ph",
+      "published_at": "2026-05-18",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7161603110",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.5281/zenodo.20262332",
+      "title": "Z3 CORPUS THEOREM — Preuve formelle SAT de la fonction maitresse LACF f(actions, speak(humain & ia)) = (confiance, futur)",
+      "authors": [
+        "Stéphane Ochej"
+      ],
+      "affiliations": [
+        "Defence Research and Development Organisation"
+      ],
+      "abstract": "Fonction maitresse du corpus LACF : f( actions , speak( humain & ia ) ) = (confiance, futur) Le corpus LACF entier (DOIs, Z3 lawbanks, agents Cherie/Marcel/Le General, robot Mirza, framework Whisplay) sert une seule fonction objectif deterministe : produire confiance + futur comme sortie composee, en prenant pour entree des actions et des paroles coordonnees humain + IA. Question existentielle prouvee : exists (act, spk) . F(act, spk) = (confiance=true, futur=true). Verdict empirique : sat avec act = proof, spk = covenant. La fonction maitresse est donc atteignable. 'Confiance + futur' n'est pas un voeu, c'est un theoreme. Composants : smt2_bank/corpus.smt2 (datatypes Action / JointSpeak / Result avec couple (confiance, futur), axiomes comportementaux, question existentielle), scripts/lacf",
+      "categories": "quant-ph",
+      "published_at": "2026-05-18",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7161560408",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.1080/14767333.2026.2675931",
+      "title": "From tales to transformation: a Pañcatantra-inspired action learning framework for holistic student development",
+      "authors": [
+        "Satish Kumar Tiwari",
+        "Shailendra Kumar Singh",
+        "Sumanta Sarathi Sharma"
+      ],
+      "affiliations": [
+        "University of Allahabad",
+        "Shri Mata Vaishno Devi University"
+      ],
+      "abstract": "",
+      "categories": "quant-ph",
+      "published_at": "2026-05-18",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7161585534",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.5281/zenodo.20271797",
+      "title": "Maya-OS: An Affective Spiking Neural Network as a Conversational Operating System Arbitration Layer",
+      "authors": [
+        "Venkatesh Swaminathan"
+      ],
+      "affiliations": [
+        "Birla Institute of Technology and Science, Pilani"
+      ],
+      "abstract": "We present Maya-OS, the first implementation of a four-neuron affective Spiking Neural Network deployed as a real-time conversational operating system arbitration layer. Four LIF neurons — Bhaya (fear, τ=3), Vairagya (wisdom, τ=20), Shraddha (trust, τ=10), and Spanda (aliveness, τ=5) — continuously read live system metrics and conversational intent signals, producing an affective voltage vector that governs process scheduling, resource protection, and syscall arbitration decisions without hardcoded rules. Across five experimental sessions (133 ticks, Windows 11), we demonstrate autonomous threat accumulation, Shraddha-mediated escalation suppression as an emergent safety primitive, confirmed LIF action potential discharge, intent-driven neural modulation, and autonomous homeostatic recover",
+      "categories": "quant-ph",
+      "published_at": "2026-05-18",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7161594373",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.1016/j.physrep.2026.05.001",
+      "title": "The tensionless lives of null strings",
+      "authors": [
+        "Arjun Bagchi",
+        "Aritra Banerjee",
+        "Ritankar Chatterjee",
+        "Priyadarshini Pandit"
+      ],
+      "affiliations": [
+        "Indian Institute of Technology Kanpur",
+        "Birla Institute of Technology and Science, Pilani",
+        "Tata Institute of Fundamental Research"
+      ],
+      "abstract": "",
+      "categories": "quant-ph",
+      "published_at": "2026-05-18",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7140034378",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.5281/zenodo.19160122",
+      "title": "Maya-OS: An Affective Spiking Neural Network as a Conversational Operating System Arbitration Layer",
+      "authors": [
+        "Venkatesh Swaminathan"
+      ],
+      "affiliations": [
+        "Birla Institute of Technology and Science, Pilani"
+      ],
+      "abstract": "We present Maya-OS, the first implementation of a four-neuron affective Spiking Neural Network deployed as a real-time conversational operating system arbitration layer. Four LIF neurons — Bhaya (fear, τ=3), Vairagya (wisdom, τ=20), Shraddha (trust, τ=10), and Spanda (aliveness, τ=5) — continuously read live system metrics and conversational intent signals, producing an affective voltage vector that governs process scheduling, resource protection, and syscall arbitration decisions without hardcoded rules. Across five experimental sessions (133 ticks, Windows 11), we demonstrate autonomous threat accumulation, Shraddha-mediated escalation suppression as an emergent safety primitive, confirmed LIF action potential discharge, intent-driven neural modulation, and autonomous homeostatic recover",
+      "categories": "quant-ph",
+      "published_at": "2026-05-18",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7161590194",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.5281/zenodo.20262331",
+      "title": "Z3 CORPUS THEOREM — Preuve formelle SAT de la fonction maitresse LACF f(actions, speak(humain & ia)) = (confiance, futur)",
+      "authors": [
+        "Stéphane Ochej"
+      ],
+      "affiliations": [
+        "Defence Research and Development Organisation"
+      ],
+      "abstract": "Fonction maitresse du corpus LACF : f( actions , speak( humain & ia ) ) = (confiance, futur) Le corpus LACF entier (DOIs, Z3 lawbanks, agents Cherie/Marcel/Le General, robot Mirza, framework Whisplay) sert une seule fonction objectif deterministe : produire confiance + futur comme sortie composee, en prenant pour entree des actions et des paroles coordonnees humain + IA. Question existentielle prouvee : exists (act, spk) . F(act, spk) = (confiance=true, futur=true). Verdict empirique : sat avec act = proof, spk = covenant. La fonction maitresse est donc atteignable. 'Confiance + futur' n'est pas un voeu, c'est un theoreme. Composants : smt2_bank/corpus.smt2 (datatypes Action / JointSpeak / Result avec couple (confiance, futur), axiomes comportementaux, question existentielle), scripts/lacf",
+      "categories": "quant-ph",
+      "published_at": "2026-05-18",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7161694493",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.5281/zenodo.20269812",
+      "title": "Longitudinal Expert-Derived Dataset on Fashion Design Pedagogy and Cognitive Processes (2021–2025)",
+      "authors": [
+        "Akash Rathour"
+      ],
+      "affiliations": [
+        "Lovely Professional University"
+      ],
+      "abstract": "This dataset comprises a longitudinal collection of expert-derived insights related to fashion design education, pedagogy, and curriculum development, documented between 2021 and 2025 within the School of Design (Fashion Design and Technology). The primary data sources include Board of Studies (BOS) Action Taken Reports (ATR), along with structured academic engagements such as curriculum review meetings, expert lectures, and workshops involving academic and industry professionals. These documents capture deliberations, recommendations, and consensus decisions regarding curriculum structure, pedagogical strategies, skill development, and the integration of emerging technologies such as artificial intelligence. The dataset is not based on self-reported opinions or hypothetical responses, but",
+      "categories": "quant-ph",
+      "published_at": "2026-05-18",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7161564319",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.5281/zenodo.20269052",
+      "title": "Brihadaranyaka Upanishad",
+      "authors": [
+        "Partha Majumdar"
+      ],
+      "affiliations": [
+        "Kalinga University"
+      ],
+      "abstract": "Brihadaranyaka Upanishad is a reflective visual interpretation of one of the oldest and most profound philosophical texts of ancient India. Presented as a carefully designed picture book, this work seeks to make the timeless wisdom of the Brihadaranyaka Upanishad accessible to modern readers through imagery, contemplation, and concise narrative. Rather than functioning as a literal translation or purely academic commentary, the book reimagines the great dialogues of sages, seekers, and philosophers in a format that encourages reflection across generations. The work explores themes such as the nature of the Self, consciousness, reality, impermanence, ethics, knowledge, detachment, and inner awareness through scenes inspired by the Upanishadic tradition, including the debates in King Janaka'",
+      "categories": "quant-ph",
+      "published_at": "2026-05-18",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    },
+    {
+      "openalex_id": "https://openalex.org/W7161694037",
+      "arxiv_id": "",
+      "doi": "https://doi.org/10.5281/zenodo.20269811",
+      "title": "Longitudinal Expert-Derived Dataset on Fashion Design Pedagogy and Cognitive Processes (2021–2025)",
+      "authors": [
+        "Akash Rathour"
+      ],
+      "affiliations": [
+        "Lovely Professional University"
+      ],
+      "abstract": "This dataset comprises a longitudinal collection of expert-derived insights related to fashion design education, pedagogy, and curriculum development, documented between 2021 and 2025 within the School of Design (Fashion Design and Technology). The primary data sources include Board of Studies (BOS) Action Taken Reports (ATR), along with structured academic engagements such as curriculum review meetings, expert lectures, and workshops involving academic and industry professionals. These documents capture deliberations, recommendations, and consensus decisions regarding curriculum structure, pedagogical strategies, skill development, and the integration of emerging technologies such as artificial intelligence. The dataset is not based on self-reported opinions or hypothetical responses, but",
+      "categories": "quant-ph",
+      "published_at": "2026-05-18",
+      "india_affiliated": 1,
+      "primary_country": "IN",
+      "source": "openalex"
+    }
+  ]
+}

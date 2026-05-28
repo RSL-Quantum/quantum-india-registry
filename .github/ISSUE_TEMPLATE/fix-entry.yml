@@ -1,0 +1,31 @@
+name: Fix an existing entry
+description: Correct a field on a registry entry already published.
+title: "[FIX] <Company display name>: <field>"
+labels: ["registry: fix"]
+body:
+  - type: input
+    id: cin
+    attributes:
+      label: CIN of the affected entry
+    validations:
+      required: true
+  - type: input
+    id: field
+    attributes:
+      label: Which field is wrong?
+      placeholder: e.g. subdomain, city, founders[0].orcid
+    validations:
+      required: true
+  - type: textarea
+    id: correct_value
+    attributes:
+      label: What should it say?
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Source supporting the correction
+      placeholder: URL of a third-party page that shows the correct value.
+    validations:
+      required: true

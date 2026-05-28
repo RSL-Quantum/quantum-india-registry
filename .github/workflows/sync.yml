@@ -1,0 +1,33 @@
+name: Daily sync from rslquantum.com
+on:
+  schedule:
+    - cron: "17 2 * * *"   # 02:17 UTC daily
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Pull latest snapshot
+        run: |
+          mkdir -p data
+          curl -fsSL https://rslquantum.com/quantum-india/data/companies.json -o data/companies.json
+          curl -fsSL https://rslquantum.com/quantum-india/data/companies.csv  -o data/companies.csv
+          curl -fsSL https://rslquantum.com/quantum-india/data/papers.json   -o data/papers.json
+          curl -fsSL https://rslquantum.com/quantum-india/data/meta.json     -o data/meta.json
+          curl -fsSL https://rslquantum.com/quantum-india/data/news.json     -o data/news.json || true
+      - name: Commit if changed
+        run: |
+          git config user.name  "rslq-sync-bot"
+          git config user.email "actions@github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "no changes"
+          else
+            git commit -m "sync: refresh registry snapshot ($(date -u +%Y-%m-%d))"
+            git push
+          fi

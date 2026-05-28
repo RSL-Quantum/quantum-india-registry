@@ -1,0 +1,63 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://rslquantum.com/quantum-india/schema/company.schema.json",
+  "title": "Quantum India Registry — company entry",
+  "description": "Schema for a single verified company entry in the Quantum India Registry. Every PR adding or modifying an entry must validate against this schema.",
+  "type": "object",
+  "required": ["cin", "legal_name", "display_name", "slug", "country", "category", "sources"],
+  "additionalProperties": false,
+  "properties": {
+    "cin": {
+      "type": "string",
+      "pattern": "^[LUF][0-9]{5}[A-Z]{2}[0-9]{4}[A-Z]{3}[0-9]{6}$",
+      "description": "Indian Corporate Identification Number (21 chars) issued by MCA."
+    },
+    "legal_name": { "type": "string", "minLength": 3, "description": "As recorded with MCA." },
+    "display_name": { "type": "string", "minLength": 2, "description": "Common-use name." },
+    "slug": { "type": "string", "pattern": "^[a-z0-9-]+$", "description": "URL slug." },
+    "domain": { "type": ["string", "null"], "format": "hostname" },
+    "country": { "const": "IN" },
+    "state": { "type": ["string", "null"] },
+    "city": { "type": ["string", "null"] },
+    "incorporated_on": { "type": ["string", "null"], "format": "date" },
+    "status": { "enum": ["active", "dormant", "struck-off", "under-liquidation", "amalgamated", "unknown"] },
+    "category": {
+      "enum": ["hardware", "software", "services", "research", "education", "investor", "other"]
+    },
+    "subdomain": {
+      "enum": ["computing", "sensing", "communications", "materials", "pqc", "algorithm", "metrology", "imaging", "other"]
+    },
+    "founders": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name"],
+        "additionalProperties": false,
+        "properties": {
+          "name": { "type": "string" },
+          "orcid": { "type": ["string", "null"], "pattern": "^[0-9]{4}-[0-9]{4}-[0-9]{4}-[0-9]{3}[0-9X]$" },
+          "wikidata": { "type": ["string", "null"], "pattern": "^Q[0-9]+$" },
+          "linkedin": { "type": ["string", "null"] }
+        }
+      }
+    },
+    "sources": {
+      "type": "array",
+      "minItems": 1,
+      "description": "At least one third-party public source is REQUIRED. CIN alone is not enough.",
+      "items": {
+        "type": "object",
+        "required": ["kind", "url"],
+        "additionalProperties": false,
+        "properties": {
+          "kind": { "enum": ["mca", "planetexim", "falconebiz", "arxiv", "openalex", "news", "grant", "patent", "company-site", "other"] },
+          "url": { "type": "string", "format": "uri" },
+          "fetched_on": { "type": ["string", "null"], "format": "date" },
+          "note": { "type": ["string", "null"] }
+        }
+      }
+    },
+    "tags": { "type": "array", "items": { "type": "string" } },
+    "notes": { "type": ["string", "null"] }
+  }
+}

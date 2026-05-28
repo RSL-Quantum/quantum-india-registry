@@ -1,0 +1,35 @@
+{
+  "ts": "2026-05-27T21:07:07.008Z",
+  "count": 1,
+  "rows": [
+    {
+      "cin": "U62010DL2026PTC466369",
+      "legal_name": "RSL QUANTUM PRIVATE LIMITED",
+      "display_name": "RSL Quantum",
+      "slug": "rsl-quantum",
+      "domain": "rslquantum.com",
+      "country": "IN",
+      "state": "Delhi",
+      "city": "New Delhi",
+      "incorporated_on": "2026-05-11",
+      "status": "active",
+      "category": "software",
+      "subdomain": "algorithm",
+      "founders": [
+        {
+          "name": "Santhosh Sivasubramani",
+          "orcid": "0000-0003-1607-0989",
+          "wikidata": "Q57509751"
+        }
+      ],
+      "nqm_aligned": 0,
+      "dpiit_recognised": 0,
+      "fitt_incubated": 1,
+      "description": "Quantum-inspired classical computing methods, fault-tolerant inference hardware, and research tools for resilient AI. Incubated at FITT, IIT Delhi.",
+      "source": "manual",
+      "verified_via": "MCA Certificate of Incorporation AC3345411 dated 11 May 2026",
+      "last_verified_at": "2026-05-28",
+      "stale": 0
+    }
+  ]
+}

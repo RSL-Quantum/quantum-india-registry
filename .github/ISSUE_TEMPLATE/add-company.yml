@@ -1,0 +1,81 @@
+name: Add a company to the registry
+description: Propose a new entry. CIN + at least one third-party source are required.
+title: "[ADD] <Company display name> (CIN: <CIN>)"
+labels: ["registry: add", "needs-verification"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for contributing. Please complete every field. CIN-only entries with no public source will be closed without further action.
+  - type: input
+    id: cin
+    attributes:
+      label: CIN
+      description: 21-character Corporate Identification Number from MCA.
+      placeholder: U72200KA2016PTC094502
+    validations:
+      required: true
+  - type: input
+    id: legal_name
+    attributes:
+      label: Legal name (as on MCA)
+    validations:
+      required: true
+  - type: input
+    id: display_name
+    attributes:
+      label: Display name (common use)
+    validations:
+      required: true
+  - type: input
+    id: domain
+    attributes:
+      label: Official domain
+      placeholder: example.com
+  - type: dropdown
+    id: subdomain
+    attributes:
+      label: Primary quantum subdomain
+      options:
+        - computing
+        - sensing
+        - communications
+        - materials
+        - pqc
+        - algorithm
+        - metrology
+        - imaging
+        - other
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Business category
+      options:
+        - hardware
+        - software
+        - services
+        - research
+        - education
+        - investor
+        - other
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Third-party sources (≥1 required)
+      description: |
+        One link per line. Acceptable kinds:
+        `mca`, `planetexim`, `falconebiz`, `arxiv`, `openalex`, `news`, `grant`, `patent`, `company-site`.
+        Format: `kind | url`
+      placeholder: |
+        planetexim | https://www.planetexim.in/company/example
+        news       | https://www.thehindu.com/business/example-quantum/article00000.ece
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else we should know?

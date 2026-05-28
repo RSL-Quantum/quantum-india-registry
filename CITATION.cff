@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: "Quantum India Registry"
+message: "If you use this dataset, please cite it as below."
+type: dataset
+authors:
+  - family-names: "Sivasubramani"
+    given-names: "Santhosh"
+    orcid: "https://orcid.org/0000-0003-1607-0989"
+    affiliation: "RSL Quantum Private Limited"
+  - name: "RSL Quantum Private Limited"
+    city: "New Delhi"
+    country: "IN"
+    website: "https://rslquantum.com"
+repository-code: "https://github.com/RSL-Quantum/quantum-india-registry"
+url: "https://rslquantum.com/quantum-india/"
+abstract: >
+  An open, machine-readable registry of Indian quantum-technology companies
+  and a rolling 30-day feed of India-affiliated quantum arXiv papers.
+  Data CC-BY-4.0; code Apache-2.0. Every entry is third-party verified.
+keywords:
+  - quantum technology
+  - India
+  - open data
+  - registry
+  - post-quantum cryptography
+license: "CC-BY-4.0"
+license-url: "https://creativecommons.org/licenses/by/4.0/"
+version: "0.1.0"
+date-released: "2026-05-28"
